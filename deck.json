@@ -1,0 +1,292 @@
+{
+    "__type__": "Deck",
+    "children": [],
+    "crowdanki_uuid": "5f79d530-cadc-11eb-9ba1-037543748ddc",
+    "deck_config_uuid": "5f79d531-cadc-11eb-9ba1-037543748ddc",
+    "deck_configurations": [
+        {
+            "__type__": "DeckConfig",
+            "autoplay": true,
+            "crowdanki_uuid": "5f79d531-cadc-11eb-9ba1-037543748ddc",
+            "dyn": false,
+            "interdayLearningMix": 0,
+            "lapse": {
+                "delays": [
+                    10.0
+                ],
+                "leechAction": 1,
+                "leechFails": 8,
+                "minInt": 1,
+                "mult": 0.0
+            },
+            "maxTaken": 60,
+            "name": "Default",
+            "new": {
+                "bury": false,
+                "delays": [
+                    1.0,
+                    10.0
+                ],
+                "initialFactor": 2500,
+                "ints": [
+                    1,
+                    4,
+                    0
+                ],
+                "order": 1,
+                "perDay": 20
+            },
+            "newMix": 0,
+            "newPerDayMinimum": 0,
+            "replayq": true,
+            "rev": {
+                "bury": false,
+                "ease4": 1.3,
+                "hardFactor": 1.2,
+                "ivlFct": 1.0,
+                "maxIvl": 36500,
+                "perDay": 200
+            },
+            "reviewOrder": 0,
+            "timer": 0
+        }
+    ],
+    "desc": "",
+    "dyn": 0,
+    "extendNew": 10,
+    "extendRev": 50,
+    "media_files": [
+        "1024px-Redbud_tree_(Cercis_canadensis)_Broad_View.jpg",
+        "1024px-Redbud_tree_(Cercis_canadensis)_Close_Up_View.jpg",
+        "450px-The_Mable_Hill_Park_Black_Walnut_Tree_-_London._(4621671958).jpg",
+        "600px-Male_catkins_Juglans_nigra1.jpg",
+        "800px-Black_Walnut_nut_and_leave_detail.JPG",
+        "800px-RedbudsOhio.jpg"
+    ],
+    "name": "Tree Identification",
+    "note_models": [
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "5f79d534-cadc-11eb-9ba1-037543748ddc",
+            "css": ".card {\n font-family: arial;\n font-size: 23px;\n text-align: center;\n margin-top: 0px;\n}\n.license {\n font-size: 9px;\n}\n.scientific-name{\n font-style:italic;\n}\n.answer {\n font-weight: bold\n}\n.blank {\n border-bottom: 2px solid black;\n width: 300px;\n height: 30px;\n margin: auto;\n vertical-align: center;\n}\n.blank-label {\n  color: grey;\n  font-style: italic;\n  font-size: 17px;\n  vertical-align: top;\n}",
+            "flds": [
+                {
+                    "font": "Liberation Serif",
+                    "media": [],
+                    "name": "common_name",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Liberation Sans",
+                    "media": [],
+                    "name": "scientific_name",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Liberation Sans",
+                    "media": [],
+                    "name": "native_region",
+                    "ord": 2,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Liberation Sans",
+                    "media": [],
+                    "name": "full_picture",
+                    "ord": 3,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Liberation Sans",
+                    "media": [],
+                    "name": "full_picture_attribution",
+                    "ord": 4,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Liberation Sans",
+                    "name": "leaf_picture",
+                    "ord": 5,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Liberation Sans",
+                    "media": [],
+                    "name": "leaf_picture_attribution",
+                    "ord": 6,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Liberation Sans",
+                    "name": "flower_picture",
+                    "ord": 7,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Liberation Sans",
+                    "media": [],
+                    "name": "flower_picture_attribution",
+                    "ord": 8,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "latexsvg": false,
+            "name": "tree-id-type",
+            "req": [
+                [
+                    0,
+                    "any",
+                    [
+                        3,
+                        4
+                    ]
+                ],
+                [
+                    1,
+                    "any",
+                    [
+                        5,
+                        6
+                    ]
+                ],
+                [
+                    2,
+                    "any",
+                    [
+                        7,
+                        8
+                    ]
+                ],
+                [
+                    3,
+                    "all",
+                    [
+                        0
+                    ]
+                ],
+                [
+                    4,
+                    "all",
+                    [
+                        1
+                    ]
+                ]
+            ],
+            "sortf": 0,
+            "tags": [],
+            "tmpls": [
+                {
+                    "afmt": "{{FrontSide}}\n{{common_name}}\n",
+                    "bafmt": "",
+                    "bfont": "",
+                    "bqfmt": "",
+                    "bsize": 0,
+                    "did": null,
+                    "name": "Recognition",
+                    "ord": 0,
+                    "qfmt": "<span class='license'>{{full_picture_attribution}}</span><br />\n{{full_picture}}\n"
+                },
+                {
+                    "afmt": "{{FrontSide}}\n{{common_name}}\n",
+                    "bafmt": "",
+                    "bqfmt": "",
+                    "did": null,
+                    "name": "Card 2",
+                    "ord": 1,
+                    "qfmt": "<span class='license'>{{leaf_picture_attribution}}</span><br />\n{{leaf_picture}}\n"
+                },
+                {
+                    "afmt": "{{FrontSide}}\n{{common_name}}\n",
+                    "bafmt": "",
+                    "bqfmt": "",
+                    "did": null,
+                    "name": "Card 3",
+                    "ord": 2,
+                    "qfmt": "<span class='license'>{{flower_picture_attribution}}</span><br />\n{{flower_picture}}\n"
+                },
+                {
+                    "afmt": "{{common_name}}<br /><br />\n<div class=\"blank scientific-name answer\">{{scientific_name}}</div>\n<span class=\"blank-label\">Scientific name</span>\n\n",
+                    "bafmt": "",
+                    "bqfmt": "",
+                    "did": null,
+                    "name": "Card 4",
+                    "ord": 3,
+                    "qfmt": "{{common_name}}<br /><br />\n<div class=\"blank\"></div>\n<span class=\"blank-label\">Scientific name</span>\n\n"
+                },
+                {
+                    "afmt": "<span class=\"scientific-name\">{{scientific_name}}</span><br /><br />\n<div class=\"blank answer\">{{common_name}}</div>\n<span class=\"blank-label\">Common name</span>\n\n",
+                    "bafmt": "",
+                    "bqfmt": "",
+                    "did": null,
+                    "name": "Card 5",
+                    "ord": 4,
+                    "qfmt": "<span class=\"scientific-name\">{{scientific_name}}</span><br /><br />\n<div class=\"blank\"></div>\n<span class=\"blank-label\">Common name</span>\n\n"
+                }
+            ],
+            "type": 0,
+            "vers": []
+        }
+    ],
+    "notes": [
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Eastern Redbud",
+                "Cercis canadensis",
+                "Eastern N. America",
+                "<div><img src=\"1024px-Redbud_tree_(Cercis_canadensis)_Broad_View.jpg\"></div>",
+                "<a href=\"https://commons.wikimedia.org/wiki/File:Redbud_tree_(Cercis_canadensis)_Broad_View.jpg\">Lambique</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\">CC BY-SA 3.0</a>, via Wikimedia Commons",
+                "<div><img src=\"1024px-Redbud_tree_(Cercis_canadensis)_Close_Up_View.jpg\"></div>",
+                "<a href=\"https://commons.wikimedia.org/wiki/File:Redbud_tree_(Cercis_canadensis)_Close_Up_View.jpg\">Lambique</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\">CC BY-SA 3.0</a>, via Wikimedia Commons",
+                "<div><img src=\"800px-RedbudsOhio.jpg\"></div>",
+                "<a href=\"https://commons.wikimedia.org/wiki/File:RedbudsOhio.jpg\">Greg Hume</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\">CC BY-SA 3.0</a>, via Wikimedia Commons"
+            ],
+            "flags": 0,
+            "guid": "isxX1,Gpp0",
+            "note_model_uuid": "5f79d534-cadc-11eb-9ba1-037543748ddc",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Black walnut",
+                "Juglans nigra",
+                "Eastern N. America",
+                "<img src=\"450px-The_Mable_Hill_Park_Black_Walnut_Tree_-_London._(4621671958).jpg\">",
+                "<a href=\"https://commons.wikimedia.org/wiki/File:The_Mable_Hill_Park_Black_Walnut_Tree_-_London._(4621671958).jpg\">Jim Linwood from London</a>, <a href=\"https://creativecommons.org/licenses/by/2.0\">CC BY 2.0</a>, via Wikimedia Commons",
+                "<img src=\"800px-Black_Walnut_nut_and_leave_detail.JPG\">",
+                "Public domain, via <a href=\"https://commons.wikimedia.org/wiki/File:Black_Walnut_nut_and_leave_detail.JPG\">Wikimedia Commons</a>",
+                "<img src=\"600px-Male_catkins_Juglans_nigra1.jpg\">",
+                "<a href=\"https://commons.wikimedia.org/wiki/File:Male_catkins_Juglans_nigra1.jpg\">Gmihail at Serbian Wikipedia</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0/rs/deed.en\">CC BY-SA 3.0 RS</a>, via Wikimedia Commons"
+            ],
+            "flags": 0,
+            "guid": "E|sU#`%foy",
+            "note_model_uuid": "5f79d534-cadc-11eb-9ba1-037543748ddc",
+            "tags": []
+        }
+    ]
+}
