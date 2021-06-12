@@ -58,13 +58,27 @@
     "media_files": [
         "1024px-Redbud_tree_(Cercis_canadensis)_Broad_View.jpg",
         "1024px-Redbud_tree_(Cercis_canadensis)_Close_Up_View.jpg",
+        "337px-Acer_macrophyllum_1.jpg",
+        "400px-Acer-negundo.jpg",
         "400px-Fagus_grandifolia_12zz.jpg",
+        "450px-Acer_saccharinum_002.jpg",
         "450px-Eastern_Cottonwood_(Populus_deltoides)_-_Flickr_-_Jay_Sturner_(2).jpg",
         "450px-The_Mable_Hill_Park_Black_Walnut_Tree_-_London._(4621671958).jpg",
+        "490px-2014-10-30_11_09_40_Red_Maple_during_autumn_on_Lower_Ferry_Road_in_Ewing,_New_Jersey.JPG",
+        "600px-Juniperus_virginiana_twig,_Belgrade.jpg",
         "600px-Male_catkins_Juglans_nigra1.jpg",
+        "601px-Acer_negundo_2016-04-10_7201.jpg",
+        "656px-Acer_macrophyllum_1199.jpg",
         "682px-Acer_saccharum_(sugar_maple_tree_in_fall_colors)_(Country_Club_Drive,_Newark,_Ohio,_USA)_(25_October_2015)_7_(21860848273).jpg",
+        "691px-Eschen-Ahorn_(Acer_negundo)_-9146.jpg",
+        "736px-Acer_rubrum_kz3.JPG",
+        "772px-Juniper_berries_q.jpg",
+        "800px-2014-05-13_08_32_55_Eastern_Red_Cedar_at_South_Riding_Golf_Club_in_South_Riding,_Virginia.JPG",
+        "800px-20140312Acer_saccharinum.jpg",
         "800px-2020-03-28_18_23_36_Sugar_Maple_flowers_along_Brightfield_Lane_in_the_Franklin_Farm_section_of_Oak_Hill,_Fairfax_County,_Virgi.jpg",
         "800px-2020-11-14_10_25_04_A_Red_Mulberry_turning_yellow_in_autumn_along_Hidden_Meadow_Drive_in_the_Franklin_Farm_section_of_Oak_Hill.jpg",
+        "800px-Acer_macrophyllum_2.jpg",
+        "800px-Acer_rubrum_22zz.jpg",
         "800px-Acer_saccharum_1-jgreenlee_(5098070608).jpg",
         "800px-Black_Walnut_nut_and_leave_detail.JPG",
         "800px-Fagus_grandifolia_(American_Beech)_(37034236702).jpg",
@@ -73,6 +87,7 @@
         "800px-Peuplier_deltoïde_feuillage.jpg",
         "800px-RedbudsOhio.jpg",
         "800px-Seeds_and_Fluff_of_Cottonwood.jpg",
+        "800px-Silber-Ahorn_(Acer_saccharinum).jpg",
         "800px-thumbnail.jpg"
     ],
     "name": "Tree Identification",
@@ -385,6 +400,111 @@
             ],
             "flags": 0,
             "guid": "hT|bM9cxP-",
+            "note_model_uuid": "5f79d534-cadc-11eb-9ba1-037543748ddc",
+            "tags": [
+                "ti::north_america_east"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Boxelder Maple",
+                "Acer negundo",
+                "Eastern N. America",
+                "<img src=\"691px-Eschen-Ahorn_(Acer_negundo)_-9146.jpg\">",
+                "<a href=\"https://commons.wikimedia.org/wiki/File:Eschen-Ahorn_(Acer_negundo)_-9146.jpg\">Hedwig Storch</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\">CC BY-SA 3.0</a>, via Wikimedia Commons",
+                "<img src=\"400px-Acer-negundo.jpg\">",
+                "<a href=\"https://commons.wikimedia.org/wiki/File:Acer-negundo.jpg\">Chrumps</a>, <a href=\"https://creativecommons.org/licenses/by/3.0\">CC BY 3.0</a>, via Wikimedia Commons",
+                "<img src=\"601px-Acer_negundo_2016-04-10_7201.jpg\">",
+                "<a href=\"https://commons.wikimedia.org/wiki/File:Acer_negundo_2016-04-10_7201.jpg\">Salicyna</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>, via Wikimedia Commons"
+            ],
+            "flags": 0,
+            "guid": "iVrmnHG2>!",
+            "note_model_uuid": "5f79d534-cadc-11eb-9ba1-037543748ddc",
+            "tags": [
+                "ti::north_america_east"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Eastern Red Cedar/Juniper",
+                "Juniperus virginiana",
+                "Eastern N. America",
+                "<div><img src=\"800px-2014-05-13_08_32_55_Eastern_Red_Cedar_at_South_Riding_Golf_Club_in_South_Riding,_Virginia.JPG\"></div>",
+                "<a href=\"https://commons.wikimedia.org/wiki/File:2014-05-13_08_32_55_Eastern_Red_Cedar_at_South_Riding_Golf_Club_in_South_Riding,_Virginia.JPG\">Famartin</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\">CC BY-SA 3.0</a>, via Wikimedia Commons",
+                "<img src=\"600px-Juniperus_virginiana_twig,_Belgrade.jpg\">",
+                "<a href=\"https://commons.wikimedia.org/wiki/File:Juniperus_virginiana_twig,_Belgrade.jpg\">Gmihail at Serbian Wikipedia</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0/rs/deed.en\">CC BY-SA 3.0 RS</a>, via Wikimedia Commons",
+                "<img src=\"772px-Juniper_berries_q.jpg\">",
+                "<a href=\"https://commons.wikimedia.org/wiki/File:Juniper_berries_q.jpg\">Quadell</a>,&nbsp;<a href=\"http://creativecommons.org/licenses/by-sa/3.0/\">CC BY-SA 3.0</a>, via Wikimedia Commons"
+            ],
+            "flags": 0,
+            "guid": "u0@h0c=-Lm",
+            "note_model_uuid": "5f79d534-cadc-11eb-9ba1-037543748ddc",
+            "tags": [
+                "ti::north_america_east"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Bigleaf Maple/Oregon Maple",
+                "Acer macrophyllum",
+                "Western N. America",
+                "<img src=\"337px-Acer_macrophyllum_1.jpg\">",
+                "<a href=\"https://commons.wikimedia.org/wiki/File:Acer_macrophyllum_1.jpg\">Thayne Tuason</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>, via Wikimedia Commons",
+                "<img src=\"656px-Acer_macrophyllum_1199.jpg\">",
+                "<a href=\"https://commons.wikimedia.org/wiki/File:Acer_macrophyllum_1199.jpg\">Angilbas at English Wikipedia</a>, Public domain, via Wikimedia Commons",
+                "<div><img src=\"800px-Acer_macrophyllum_2.jpg\"></div>",
+                "<a href=\"https://commons.wikimedia.org/wiki/File:Acer_macrophyllum_2.jpg\">Thayne Tuason</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>, via Wikimedia Commons"
+            ],
+            "flags": 0,
+            "guid": "L<h:Nb^q]b",
+            "note_model_uuid": "5f79d534-cadc-11eb-9ba1-037543748ddc",
+            "tags": [
+                "ti::north_america_west"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Red Maple",
+                "Acer rubrum",
+                "Eastern N. America",
+                "<img src=\"490px-2014-10-30_11_09_40_Red_Maple_during_autumn_on_Lower_Ferry_Road_in_Ewing,_New_Jersey.JPG\">",
+                "<a href=\"https://commons.wikimedia.org/wiki/File:2014-10-30_11_09_40_Red_Maple_during_autumn_on_Lower_Ferry_Road_in_Ewing,_New_Jersey.JPG\">Famartin</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>, via Wikimedia Commons",
+                "<img src=\"800px-Acer_rubrum_22zz.jpg\">",
+                "<a href=\"https://commons.wikimedia.org/wiki/File:Acer_rubrum_22zz.jpg\">Photo by David J. Stang</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>, via Wikimedia Commons",
+                "<img src=\"736px-Acer_rubrum_kz3.JPG\">",
+                "<a href=\"https://commons.wikimedia.org/wiki/File:Acer_rubrum_kz3.JPG\">Krzysztof Ziarnek, Kenraiz</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>, via Wikimedia Commons"
+            ],
+            "flags": 0,
+            "guid": "I[Z,DlB1Ft",
+            "note_model_uuid": "5f79d534-cadc-11eb-9ba1-037543748ddc",
+            "tags": [
+                "ti::north_america_east"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Silver Maple",
+                "Acer saccharinum",
+                "Eastern N. America",
+                "<div><img src=\"800px-Silber-Ahorn_(Acer_saccharinum).jpg\"></div>",
+                "<a href=\"https://commons.wikimedia.org/wiki/File:Silber-Ahorn_(Acer_saccharinum).jpg\">Darkone (talk · contribs)</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.5\">CC BY-SA 2.5</a>, via Wikimedia Commons",
+                "<img src=\"450px-Acer_saccharinum_002.jpg\">",
+                "<a href=\"https://commons.wikimedia.org/wiki/File:Acer_saccharinum_002.jpg\">Willow</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\">CC BY-SA 3.0</a>, via Wikimedia Commons",
+                "<img src=\"800px-20140312Acer_saccharinum.jpg\">",
+                "<a href=\"https://commons.wikimedia.org/wiki/File:20140312Acer_saccharinum.jpg\">AnRo0002</a>, CC0, via Wikimedia Commons"
+            ],
+            "flags": 0,
+            "guid": "JNMyTuc=*l",
             "note_model_uuid": "5f79d534-cadc-11eb-9ba1-037543748ddc",
             "tags": [
                 "ti::north_america_east"
