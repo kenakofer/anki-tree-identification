@@ -95,7 +95,7 @@
         {
             "__type__": "NoteModel",
             "crowdanki_uuid": "5f79d534-cadc-11eb-9ba1-037543748ddc",
-            "css": ".card {\n font-family: arial;\n font-size: 23px;\n text-align: center;\n margin-top: 0px;\n}\n.license {\n font-size: 9px;\n}\n.scientific-name{\n font-style:italic;\n}\n.answer {\n font-weight: bold\n}\n.blank {\n border-bottom: 2px solid black;\n width: 300px;\n height: 30px;\n margin: auto;\n vertical-align: center;\n}\n.blank-label {\n  color: grey;\n  font-style: italic;\n  font-size: 17px;\n  vertical-align: top;\n}",
+            "css": ".card {\n font-family: arial;\n font-size: 23px;\n text-align: center;\n margin-top: 0px;\n}\n.license {\n font-size: 9px;\n}\n.scientific-name{\n font-style:italic;\n color: #222;\n font-size: 20px;\n}\n.answer {\n font-weight: bold\n}\n.blank {\n border-bottom: 2px solid black;\n width: 300px;\n height: 30px;\n margin: auto;\n vertical-align: center;\n}\n.blank-label {\n  color: grey;\n  font-style: italic;\n  font-size: 17px;\n  vertical-align: top;\n}",
             "flds": [
                 {
                     "font": "Liberation Serif",
@@ -227,7 +227,7 @@
             ],
             "tmpls": [
                 {
-                    "afmt": "{{FrontSide}}<br />\n{{common_name}}\n",
+                    "afmt": "{{FrontSide}}<br />\n<span class='answer'>{{common_name}}</span><br />\n<span class='scientific-name'>{{scientific_name}}</span>\n",
                     "bafmt": "",
                     "bfont": "",
                     "bqfmt": "",
@@ -238,7 +238,7 @@
                     "qfmt": "<span class='license'>{{full_picture_attribution}}</span><br />\n{{full_picture}}\n"
                 },
                 {
-                    "afmt": "{{FrontSide}}<br />\n{{common_name}}\n",
+                    "afmt": "{{FrontSide}}<br />\n<span class='answer'>{{common_name}}</span><br />\n<span class='scientific-name'>{{scientific_name}}</span>\n",
                     "bafmt": "",
                     "bqfmt": "",
                     "did": null,
@@ -247,7 +247,7 @@
                     "qfmt": "<span class='license'>{{leaf_picture_attribution}}</span><br />\n{{leaf_picture}}\n"
                 },
                 {
-                    "afmt": "{{FrontSide}}<br />\n{{common_name}}\n",
+                    "afmt": "{{FrontSide}}<br />\n<span class='answer'>{{common_name}}</span><br />\n<span class='scientific-name'>{{scientific_name}}</span>\n",
                     "bafmt": "",
                     "bqfmt": "",
                     "did": null,
