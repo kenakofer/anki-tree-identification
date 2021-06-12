@@ -58,27 +58,43 @@
     "media_files": [
         "1024px-Redbud_tree_(Cercis_canadensis)_Broad_View.jpg",
         "1024px-Redbud_tree_(Cercis_canadensis)_Close_Up_View.jpg",
+        "144px-Sequoia_sempervirens_by_Line1.jpg",
         "337px-Acer_macrophyllum_1.jpg",
         "400px-Acer-negundo.jpg",
         "400px-Fagus_grandifolia_12zz.jpg",
+        "410px-Thuja_plicata_Vancouver.jpg",
+        "415px-Robinia_pseudoacacia_3.jpg",
+        "421px-Robinia_pseudoacacia_-_Robinie_-_Mörfelden-Walldorf_-_Germany_-_02.jpg",
+        "425px-Thuja_plicata_kz1.JPG",
         "450px-Acer_saccharinum_002.jpg",
+        "450px-Douglas_fir_cone.jpg",
         "450px-Eastern_Cottonwood_(Populus_deltoides)_-_Flickr_-_Jay_Sturner_(2).jpg",
+        "450px-Flowers_of_Robinia_pseudoacacia.jpg",
+        "450px-Fraxinus_americana_-_University_of_Kentucky_Arboretum_-_DSC09335.JPG",
+        "450px-Fraxinus_americana_002.jpg",
         "450px-Populus_deltoides_(Eastern_Cottonwood)_(42164128654).jpg",
+        "450px-Sequoiadendron_giganteum_01.jpg",
+        "450px-Sequoiadendron_giganteum_3zz.jpg",
         "450px-The_Mable_Hill_Park_Black_Walnut_Tree_-_London._(4621671958).jpg",
+        "479px-Asimina_triloba_(Paw_Paw)_(24374695518).jpg",
         "490px-2014-10-30_11_09_40_Red_Maple_during_autumn_on_Lower_Ferry_Road_in_Ewing,_New_Jersey.JPG",
         "600px-Juniperus_virginiana_twig,_Belgrade.jpg",
         "600px-Male_catkins_Juglans_nigra1.jpg",
         "601px-Acer_negundo_2016-04-10_7201.jpg",
         "656px-Acer_macrophyllum_1199.jpg",
+        "666px-Paw_Paw_blossom.jpg",
         "682px-Acer_saccharum_(sugar_maple_tree_in_fall_colors)_(Country_Club_Drive,_Newark,_Ohio,_USA)_(25_October_2015)_7_(21860848273).jpg",
         "691px-Eschen-Ahorn_(Acer_negundo)_-9146.jpg",
         "736px-Acer_rubrum_kz3.JPG",
+        "750px-Thuja_plicata_RF.jpg",
         "772px-Juniper_berries_q.jpg",
         "800px-20130903Juglans_nigra8.jpg",
         "800px-2014-05-13_08_32_55_Eastern_Red_Cedar_at_South_Riding_Golf_Club_in_South_Riding,_Virginia.JPG",
         "800px-20140312Acer_saccharinum.jpg",
+        "800px-20150225Robinia_pseudoacacia.jpg",
         "800px-2019-04-23_13_49_25_Ripe_Silver_Maple_seeds_along_Tranquility_Lane_in_the_Franklin_Farm_section_of_Oak_Hill,_Fairfax_County,_V.jpg",
         "800px-2020-03-28_18_23_36_Sugar_Maple_flowers_along_Brightfield_Lane_in_the_Franklin_Farm_section_of_Oak_Hill,_Fairfax_County,_Virgi.jpg",
+        "800px-2020-04-19_11_28_19_Flowers_developing_on_a_White_Ash_tree_along_Dunmore_Avenue_in_the_Parkway_Village_section_of_Ewing_Townsh.jpg",
         "800px-2020-04-21_17_07_46_Red_Mulberry_leaves_and_flowers_within_Franklin_Farm_Park_in_the_Franklin_Farm_section_of_Oak_Hill,_Fairfa.jpg",
         "800px-2020-11-14_10_25_04_A_Red_Mulberry_turning_yellow_in_autumn_along_Hidden_Meadow_Drive_in_the_Franklin_Farm_section_of_Oak_Hill.jpg",
         "800px-2021-04-17_11_34_07_American_Beech_flowers_along_a_walking_path_in_the_Franklin_Glen_section_of_Chantilly,_Fairfax_County,_Vir.jpg",
@@ -87,18 +103,27 @@
         "800px-Acer_rubrum_22zz.jpg",
         "800px-Acer_rubrum_seed_keys.jpg",
         "800px-Acer_saccharum_1-jgreenlee_(5098070608).jpg",
+        "800px-Asimina_triloba_Asymina_trójklapowa_2020-07-18_01.jpg",
         "800px-Black_Walnut_nut_and_leave_detail.JPG",
         "800px-CloseUpManitobaMapleSeed.jpg",
         "800px-Fagus_grandifolia_(American_Beech)_(37034236702).jpg",
         "800px-Fagus_grandifolia_36zz.jpg",
+        "800px-Fraxinus_americana_seeds.jpg",
+        "800px-GreenSeedConesSequoiadendronGiganteum.JPG",
         "800px-Morus_sp._02.jpg",
+        "800px-Pawpaw_(30381530933).jpg",
         "800px-Peuplier_deltoïde_feuillage.jpg",
+        "800px-Pseudotsuga_menziesii_branch_underside.JPG",
+        "800px-Pseudotsuga_menziesii_var._glauca_young_female_cone_-_Keila.jpg",
         "800px-RedbudsOhio.jpg",
         "800px-Seeds_and_Fluff_of_Cottonwood.jpg",
+        "800px-Sequoia_sempervirens_foliage.JPG",
+        "800px-Sequoia_sempervirens_foliage_cones_Mount_Tamalpais_1.jpg",
         "800px-Silber-Ahorn_(Acer_saccharinum).jpg",
         "800px-Sugar_maple_3220.jpg",
         "800px-thumbnail.jpg",
-        "Cercis_canadensis_16zz.jpg"
+        "Cercis_canadensis_16zz.jpg",
+        "Pseudotsuga_menziesii_12zz.jpg"
     ],
     "name": "Tree Identification",
     "note_models": [
@@ -555,6 +580,167 @@
             ],
             "flags": 0,
             "guid": "JNMyTuc=*l",
+            "note_model_uuid": "5f79d534-cadc-11eb-9ba1-037543748ddc",
+            "tags": [
+                "ti::north_america_east"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Western Red Cedar",
+                "Thuja plicata",
+                "Western N. America",
+                "<img src=\"410px-Thuja_plicata_Vancouver.jpg\">",
+                "<a href=\"https://commons.wikimedia.org/wiki/File:Thuja_plicata_Vancouver.jpg\">abdallahh from Montréal, Canada</a>, <a href=\"https://creativecommons.org/licenses/by/2.0\">CC BY 2.0</a>, via Wikimedia Commons",
+                "<img src=\"750px-Thuja_plicata_RF.jpg\">",
+                "<a href=\"https://commons.wikimedia.org/wiki/File:Thuja_plicata_RF.jpg\">Robert Flogaus-Faust</a>, <a href=\"https://creativecommons.org/licenses/by/4.0\">CC BY 4.0</a>, via Wikimedia Commons",
+                "<img src=\"425px-Thuja_plicata_kz1.JPG\">",
+                "<a href=\"https://commons.wikimedia.org/wiki/File:Thuja_plicata_kz1.JPG\">Krzysztof Ziarnek, Kenraiz</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>, via Wikimedia Commons",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "b$x]%y`ZTA",
+            "note_model_uuid": "5f79d534-cadc-11eb-9ba1-037543748ddc",
+            "tags": [
+                "ti::north_america_west"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Douglas Fir",
+                "Pseudotsuga menziesii",
+                "Western N. America",
+                "<img src=\"Pseudotsuga_menziesii_12zz.jpg\">",
+                "<a href=\"https://commons.wikimedia.org/wiki/File:Pseudotsuga_menziesii_12zz.jpg\">Photo by David J. Stang</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>, via Wikimedia Commons",
+                "<img src=\"800px-Pseudotsuga_menziesii_branch_underside.JPG\">",
+                "<a href=\"https://commons.wikimedia.org/wiki/File:Pseudotsuga_menziesii_branch_underside.JPG\">Crusier</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\">CC BY-SA 3.0</a>, via Wikimedia Commons",
+                "<img src=\"800px-Pseudotsuga_menziesii_var._glauca_young_female_cone_-_Keila.jpg\">",
+                "<a href=\"https://commons.wikimedia.org/wiki/File:Pseudotsuga_menziesii_var._glauca_young_female_cone_-_Keila.jpg\">Ivar Leidus</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>, via Wikimedia Commons",
+                "<img src=\"450px-Douglas_fir_cone.jpg\">",
+                "<a href=\"https://commons.wikimedia.org/wiki/File:Douglas_fir_cone.jpg\">Luis Apiolaza</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>, via Wikimedia Commons"
+            ],
+            "flags": 0,
+            "guid": "y?NYzOBwgW",
+            "note_model_uuid": "5f79d534-cadc-11eb-9ba1-037543748ddc",
+            "tags": [
+                "ti::north_america_west"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Coastal Redwood",
+                "Sequoia sempervirens",
+                "Western N. America",
+                "<div> <img src=\"144px-Sequoia_sempervirens_by_Line1.jpg\"></div>",
+                "<a href=\"https://commons.wikimedia.org/wiki/File:Sequoia_sempervirens_by_Line1.jpg\">Liné1</a>, <a href=\"http://creativecommons.org/licenses/by-sa/3.0/\">CC BY-SA 3.0</a>, via Wikimedia Commons",
+                "<img src=\"800px-Sequoia_sempervirens_foliage.JPG\">",
+                "<a href=\"https://commons.wikimedia.org/wiki/File:Sequoia_sempervirens_foliage.JPG\">Crusier</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\">CC BY-SA 3.0</a>, via Wikimedia Commons",
+                "",
+                "",
+                "<img src=\"800px-Sequoia_sempervirens_foliage_cones_Mount_Tamalpais_1.jpg\">",
+                "<a href=\"https://commons.wikimedia.org/wiki/File:Sequoia_sempervirens_foliage_cones_Mount_Tamalpais_1.jpg\">Ilya Katsnelson from Mountain View, USA</a>, <a href=\"https://creativecommons.org/licenses/by/2.0\">CC BY 2.0</a>, via Wikimedia Commons"
+            ],
+            "flags": 0,
+            "guid": "hjok;%;oV/",
+            "note_model_uuid": "5f79d534-cadc-11eb-9ba1-037543748ddc",
+            "tags": [
+                "ti::north_america_west"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Giant Sequoia/Sierran Redwood",
+                "Sequoiadendron giganteum",
+                "Western N. America",
+                "<img src=\"450px-Sequoiadendron_giganteum_01.jpg\">",
+                "<a href=\"https://commons.wikimedia.org/wiki/File:Sequoiadendron_giganteum_01.jpg\">A.Poulos (Iya) from USA</a>, <a href=\"https://creativecommons.org/licenses/by/2.0\">CC BY 2.0</a>, via Wikimedia Commons",
+                "<img src=\"450px-Sequoiadendron_giganteum_3zz.jpg\">",
+                "<a href=\"https://commons.wikimedia.org/wiki/File:Sequoiadendron_giganteum_3zz.jpg\">Photo by David J. Stang</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>, via Wikimedia Commons",
+                "",
+                "",
+                "<img src=\"800px-GreenSeedConesSequoiadendronGiganteum.JPG\">",
+                "<a href=\"https://commons.wikimedia.org/wiki/File:GreenSeedConesSequoiadendronGiganteum.JPG\">Thereidshome</a>, Public domain, via Wikimedia Commons\n"
+            ],
+            "flags": 0,
+            "guid": "x8Ir6EC;]V",
+            "note_model_uuid": "5f79d534-cadc-11eb-9ba1-037543748ddc",
+            "tags": [
+                "ti::north_america_west"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "White ash",
+                "Fraxinus americana",
+                "Eastern N. America",
+                "<img src=\"450px-Fraxinus_americana_002.jpg\">",
+                "<a href=\"https://commons.wikimedia.org/wiki/File:Fraxinus_americana_002.jpg\">Willow</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\">CC BY-SA 3.0</a>, via Wikimedia Commons",
+                "<img src=\"450px-Fraxinus_americana_-_University_of_Kentucky_Arboretum_-_DSC09335.JPG\">",
+                "<a href=\"https://commons.wikimedia.org/wiki/File:Fraxinus_americana_-_University_of_Kentucky_Arboretum_-_DSC09335.JPG\">Daderot</a>, CC0, via Wikimedia Commons",
+                "<img src=\"800px-2020-04-19_11_28_19_Flowers_developing_on_a_White_Ash_tree_along_Dunmore_Avenue_in_the_Parkway_Village_section_of_Ewing_Townsh.jpg\">",
+                "<a href=\"https://commons.wikimedia.org/wiki/File:2020-04-19_11_28_19_Flowers_developing_on_a_White_Ash_tree_along_Dunmore_Avenue_in_the_Parkway_Village_section_of_Ewing_Township,_Mercer_County,_New_Jersey.jpg\">Famartin</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>, via Wikimedia Commons",
+                "<img src=\"800px-Fraxinus_americana_seeds.jpg\">",
+                "<a href=\"https://commons.wikimedia.org/wiki/File:Fraxinus_americana_seeds.jpg\">Keith Kanoti, Maine Forest Service, USA</a>, <a href=\"https://creativecommons.org/licenses/by/3.0/us/deed.en\">CC BY 3.0 US</a>, via Wikimedia Commons"
+            ],
+            "flags": 0,
+            "guid": "c3[:Ylbt;A",
+            "note_model_uuid": "5f79d534-cadc-11eb-9ba1-037543748ddc",
+            "tags": [
+                "ti::north_america_east"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Black Locust",
+                "Robinia pseudoacacia",
+                "Eastern N. America",
+                "<img src=\"421px-Robinia_pseudoacacia_-_Robinie_-_Mörfelden-Walldorf_-_Germany_-_02.jpg\">",
+                "<a href=\"https://commons.wikimedia.org/wiki/File:Robinia_pseudoacacia_-_Robinie_-_Mörfelden-Walldorf_-_Germany_-_02.jpg\">Norbert Nagel</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\">CC BY-SA 3.0</a>, via Wikimedia Commons",
+                "<img src=\"415px-Robinia_pseudoacacia_3.jpg\">",
+                "<a href=\"https://commons.wikimedia.org/wiki/File:Robinia_pseudoacacia_3.jpg\">Thayne Tuason</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>, via Wikimedia Commons",
+                "<img src=\"450px-Flowers_of_Robinia_pseudoacacia.jpg\">",
+                "<a href=\"https://commons.wikimedia.org/wiki/File:Flowers_of_Robinia_pseudoacacia.jpg\">Andrew Butko</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\">CC BY-SA 3.0</a>, via Wikimedia Commons",
+                "<img src=\"800px-20150225Robinia_pseudoacacia.jpg\">",
+                "<a href=\"https://commons.wikimedia.org/wiki/File:20150225Robinia_pseudoacacia.jpg\">AnRo0002</a>, CC0, via Wikimedia Commons"
+            ],
+            "flags": 0,
+            "guid": "OAKOrc5QmA",
+            "note_model_uuid": "5f79d534-cadc-11eb-9ba1-037543748ddc",
+            "tags": [
+                "ti::north_america_east"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "American Paw Paw",
+                "Asimina triloba",
+                "Eastern N. America",
+                "<img src=\"479px-Asimina_triloba_(Paw_Paw)_(24374695518).jpg\">",
+                "<a href=\"https://commons.wikimedia.org/wiki/File:Asimina_triloba_(Paw_Paw)_(24374695518).jpg\">Plant Image Library from Boston, USA</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.0\">CC BY-SA 2.0</a>, via Wikimedia Commons",
+                "<img src=\"800px-Pawpaw_(30381530933).jpg\">",
+                "<a href=\"https://commons.wikimedia.org/wiki/File:Pawpaw_(30381530933).jpg\">Katja Schulz from Washington, D. C., USA</a>, <a href=\"https://creativecommons.org/licenses/by/2.0\">CC BY 2.0</a>, via Wikimedia Commons",
+                "<img src=\"666px-Paw_Paw_blossom.jpg\">",
+                "<a href=\"https://commons.wikimedia.org/wiki/File:Paw_Paw_blossom.jpg\">Geoffrey.landis</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>, via Wikimedia Commons",
+                "<img src=\"800px-Asimina_triloba_Asymina_trójklapowa_2020-07-18_01.jpg\">",
+                "<a href=\"https://commons.wikimedia.org/wiki/File:Asimina_triloba_Asymina_trójklapowa_2020-07-18_01.jpg\">Agnieszka Kwiecień, Nova</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>, via Wikimedia Commons"
+            ],
+            "flags": 0,
+            "guid": "FUK:#Iq)_%",
             "note_model_uuid": "5f79d534-cadc-11eb-9ba1-037543748ddc",
             "tags": [
                 "ti::north_america_east"
