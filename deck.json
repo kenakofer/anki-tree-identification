@@ -58,10 +58,22 @@
     "media_files": [
         "1024px-Redbud_tree_(Cercis_canadensis)_Broad_View.jpg",
         "1024px-Redbud_tree_(Cercis_canadensis)_Close_Up_View.jpg",
+        "400px-Fagus_grandifolia_12zz.jpg",
+        "450px-Eastern_Cottonwood_(Populus_deltoides)_-_Flickr_-_Jay_Sturner_(2).jpg",
         "450px-The_Mable_Hill_Park_Black_Walnut_Tree_-_London._(4621671958).jpg",
         "600px-Male_catkins_Juglans_nigra1.jpg",
+        "682px-Acer_saccharum_(sugar_maple_tree_in_fall_colors)_(Country_Club_Drive,_Newark,_Ohio,_USA)_(25_October_2015)_7_(21860848273).jpg",
+        "800px-2020-03-28_18_23_36_Sugar_Maple_flowers_along_Brightfield_Lane_in_the_Franklin_Farm_section_of_Oak_Hill,_Fairfax_County,_Virgi.jpg",
+        "800px-2020-11-14_10_25_04_A_Red_Mulberry_turning_yellow_in_autumn_along_Hidden_Meadow_Drive_in_the_Franklin_Farm_section_of_Oak_Hill.jpg",
+        "800px-Acer_saccharum_1-jgreenlee_(5098070608).jpg",
         "800px-Black_Walnut_nut_and_leave_detail.JPG",
-        "800px-RedbudsOhio.jpg"
+        "800px-Fagus_grandifolia_(American_Beech)_(37034236702).jpg",
+        "800px-Fagus_grandifolia_36zz.jpg",
+        "800px-Morus_sp._02.jpg",
+        "800px-Peuplier_deltoïde_feuillage.jpg",
+        "800px-RedbudsOhio.jpg",
+        "800px-Seeds_and_Fluff_of_Cottonwood.jpg",
+        "800px-thumbnail.jpg"
     ],
     "name": "Tree Identification",
     "note_models": [
@@ -195,7 +207,9 @@
                 ]
             ],
             "sortf": 0,
-            "tags": [],
+            "tags": [
+                "ti::north_america_east"
+            ],
             "tmpls": [
                 {
                     "afmt": "{{FrontSide}}<br />\n{{common_name}}\n",
@@ -261,13 +275,15 @@
                 "<a href=\"https://commons.wikimedia.org/wiki/File:Redbud_tree_(Cercis_canadensis)_Broad_View.jpg\">Lambique</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\">CC BY-SA 3.0</a>, via Wikimedia Commons",
                 "<div><img src=\"1024px-Redbud_tree_(Cercis_canadensis)_Close_Up_View.jpg\"></div>",
                 "<a href=\"https://commons.wikimedia.org/wiki/File:Redbud_tree_(Cercis_canadensis)_Close_Up_View.jpg\">Lambique</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\">CC BY-SA 3.0</a>, via Wikimedia Commons",
-                "<div><img src=\"800px-RedbudsOhio.jpg\"></div>",
+                "<img src=\"800px-RedbudsOhio.jpg\"><br>",
                 "<a href=\"https://commons.wikimedia.org/wiki/File:RedbudsOhio.jpg\">Greg Hume</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\">CC BY-SA 3.0</a>, via Wikimedia Commons"
             ],
             "flags": 0,
             "guid": "isxX1,Gpp0",
             "note_model_uuid": "5f79d534-cadc-11eb-9ba1-037543748ddc",
-            "tags": []
+            "tags": [
+                "ti::north_america_east"
+            ]
         },
         {
             "__type__": "Note",
@@ -286,7 +302,93 @@
             "flags": 0,
             "guid": "E|sU#`%foy",
             "note_model_uuid": "5f79d534-cadc-11eb-9ba1-037543748ddc",
-            "tags": []
+            "tags": [
+                "ti::north_america_east"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Eastern Cottonwood",
+                "Populus deltoides",
+                "Eastern N. America",
+                "<img src=\"450px-Eastern_Cottonwood_(Populus_deltoides)_-_Flickr_-_Jay_Sturner_(2).jpg\">",
+                "<a href=\"https://commons.wikimedia.org/wiki/File:Eastern_Cottonwood_(Populus_deltoides)_-_Flickr_-_Jay_Sturner_(2).jpg\">Jay Sturner from USA</a>, <a href=\"https://creativecommons.org/licenses/by/2.0\">CC BY 2.0</a>, via Wikimedia Commons",
+                "<img src=\"800px-Peuplier_deltoïde_feuillage.jpg\">",
+                "<a href=\"https://commons.wikimedia.org/wiki/File:Peuplier_deltoïde_feuillage.jpg\">Laurent Bélanger</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>, via Wikimedia Commons",
+                "<img src=\"800px-Seeds_and_Fluff_of_Cottonwood.jpg\">",
+                "<a href=\"https://commons.wikimedia.org/wiki/File:Seeds_and_Fluff_of_Cottonwood.jpg\">Amiyashrivastava</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\">CC BY-SA 3.0</a>, via Wikimedia Commons"
+            ],
+            "flags": 0,
+            "guid": "n2Xa;{gbJO",
+            "note_model_uuid": "5f79d534-cadc-11eb-9ba1-037543748ddc",
+            "tags": [
+                "ti::north_america_east"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "American Beech",
+                "Fagus grandifolia",
+                "Eastern N. America",
+                "<img src=\"400px-Fagus_grandifolia_12zz.jpg\">",
+                "<a href=\"https://commons.wikimedia.org/wiki/File:Fagus_grandifolia_12zz.jpg\">Photo by David J. Stang</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>, via Wikimedia Commons",
+                "<img src=\"800px-Fagus_grandifolia_36zz.jpg\">",
+                "<a href=\"https://commons.wikimedia.org/wiki/File:Fagus_grandifolia_36zz.jpg\">Photo by David J. Stang</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>, via Wikimedia Commons",
+                "<img src=\"800px-Fagus_grandifolia_(American_Beech)_(37034236702).jpg\">",
+                "<a href=\"https://commons.wikimedia.org/wiki/File:Fagus_grandifolia_(American_Beech)_(37034236702).jpg\">Plant Image Library from Boston, USA</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.0\">CC BY-SA 2.0</a>, via Wikimedia Commons"
+            ],
+            "flags": 0,
+            "guid": "ofom*?kR)-",
+            "note_model_uuid": "5f79d534-cadc-11eb-9ba1-037543748ddc",
+            "tags": [
+                "ti::north_america_east"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Red Mulberry",
+                "Morus rubra",
+                "Eastern N. America",
+                "<img src=\"800px-2020-11-14_10_25_04_A_Red_Mulberry_turning_yellow_in_autumn_along_Hidden_Meadow_Drive_in_the_Franklin_Farm_section_of_Oak_Hill.jpg\">",
+                "<a href=\"https://commons.wikimedia.org/wiki/File:2020-11-14_10_25_04_A_Red_Mulberry_turning_yellow_in_autumn_along_Hidden_Meadow_Drive_in_the_Franklin_Farm_section_of_Oak_Hill,_Fairfax_County,_Virginia.jpg\">Famartin</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>, via Wikimedia Commons",
+                "<img src=\"800px-thumbnail.jpg\">",
+                "<a href=\"https://commons.wikimedia.org/wiki/File:2020-04-10_14_11_15_New_leaves_and_flower_buds_in_spring_on_a_Red_Mulberry_along_Old_Dairy_Road_in_the_Franklin_Farm_section_of_Oak_Hill,_Fairfax_County,_Virginia.jpg\">Famartin</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>, via Wikimedia Commons",
+                "<img src=\"800px-Morus_sp._02.jpg\">",
+                "<a href=\"https://commons.wikimedia.org/wiki/File:Morus_sp._02.jpg\">Zeynel Cebeci</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>, via Wikimedia Commons"
+            ],
+            "flags": 0,
+            "guid": "IY0gh9Ok[E",
+            "note_model_uuid": "5f79d534-cadc-11eb-9ba1-037543748ddc",
+            "tags": [
+                "ti::north_america_east"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Sugar Maple",
+                "Acer saccharum",
+                "Eastern N. America",
+                "<img src=\"682px-Acer_saccharum_(sugar_maple_tree_in_fall_colors)_(Country_Club_Drive,_Newark,_Ohio,_USA)_(25_October_2015)_7_(21860848273).jpg\">",
+                "<a href=\"https://commons.wikimedia.org/wiki/File:Acer_saccharum_(sugar_maple_tree_in_fall_colors)_(Country_Club_Drive,_Newark,_Ohio,_USA)_(25_October_2015)_7_(21860848273).jpg\">James St. John</a>, <a href=\"https://creativecommons.org/licenses/by/2.0\">CC BY 2.0</a>, via Wikimedia Commons",
+                "<img src=\"800px-Acer_saccharum_1-jgreenlee_(5098070608).jpg\">",
+                "<a href=\"https://commons.wikimedia.org/wiki/File:Acer_saccharum_1-jgreenlee_(5098070608).jpg\">Superior National Forest</a>, <a href=\"https://creativecommons.org/licenses/by/2.0\">CC BY 2.0</a>, via Wikimedia Commons",
+                "<img src=\"800px-2020-03-28_18_23_36_Sugar_Maple_flowers_along_Brightfield_Lane_in_the_Franklin_Farm_section_of_Oak_Hill,_Fairfax_County,_Virgi.jpg\">",
+                "<a href=\"https://commons.wikimedia.org/wiki/File:2020-03-28_18_23_36_Sugar_Maple_flowers_along_Brightfield_Lane_in_the_Franklin_Farm_section_of_Oak_Hill,_Fairfax_County,_Virginia.jpg\">Famartin</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>, via Wikimedia Commons"
+            ],
+            "flags": 0,
+            "guid": "hT|bM9cxP-",
+            "note_model_uuid": "5f79d534-cadc-11eb-9ba1-037543748ddc",
+            "tags": [
+                "ti::north_america_east"
+            ]
         }
     ]
 }
