@@ -63,6 +63,7 @@
         "400px-Fagus_grandifolia_12zz.jpg",
         "450px-Acer_saccharinum_002.jpg",
         "450px-Eastern_Cottonwood_(Populus_deltoides)_-_Flickr_-_Jay_Sturner_(2).jpg",
+        "450px-Populus_deltoides_(Eastern_Cottonwood)_(42164128654).jpg",
         "450px-The_Mable_Hill_Park_Black_Walnut_Tree_-_London._(4621671958).jpg",
         "490px-2014-10-30_11_09_40_Red_Maple_during_autumn_on_Lower_Ferry_Road_in_Ewing,_New_Jersey.JPG",
         "600px-Juniperus_virginiana_twig,_Belgrade.jpg",
@@ -73,14 +74,21 @@
         "691px-Eschen-Ahorn_(Acer_negundo)_-9146.jpg",
         "736px-Acer_rubrum_kz3.JPG",
         "772px-Juniper_berries_q.jpg",
+        "800px-20130903Juglans_nigra8.jpg",
         "800px-2014-05-13_08_32_55_Eastern_Red_Cedar_at_South_Riding_Golf_Club_in_South_Riding,_Virginia.JPG",
         "800px-20140312Acer_saccharinum.jpg",
+        "800px-2019-04-23_13_49_25_Ripe_Silver_Maple_seeds_along_Tranquility_Lane_in_the_Franklin_Farm_section_of_Oak_Hill,_Fairfax_County,_V.jpg",
         "800px-2020-03-28_18_23_36_Sugar_Maple_flowers_along_Brightfield_Lane_in_the_Franklin_Farm_section_of_Oak_Hill,_Fairfax_County,_Virgi.jpg",
+        "800px-2020-04-21_17_07_46_Red_Mulberry_leaves_and_flowers_within_Franklin_Farm_Park_in_the_Franklin_Farm_section_of_Oak_Hill,_Fairfa.jpg",
         "800px-2020-11-14_10_25_04_A_Red_Mulberry_turning_yellow_in_autumn_along_Hidden_Meadow_Drive_in_the_Franklin_Farm_section_of_Oak_Hill.jpg",
+        "800px-2021-04-17_11_34_07_American_Beech_flowers_along_a_walking_path_in_the_Franklin_Glen_section_of_Chantilly,_Fairfax_County,_Vir.jpg",
         "800px-Acer_macrophyllum_2.jpg",
+        "800px-Acer_macrophyllum_3158.jpg",
         "800px-Acer_rubrum_22zz.jpg",
+        "800px-Acer_rubrum_seed_keys.jpg",
         "800px-Acer_saccharum_1-jgreenlee_(5098070608).jpg",
         "800px-Black_Walnut_nut_and_leave_detail.JPG",
+        "800px-CloseUpManitobaMapleSeed.jpg",
         "800px-Fagus_grandifolia_(American_Beech)_(37034236702).jpg",
         "800px-Fagus_grandifolia_36zz.jpg",
         "800px-Morus_sp._02.jpg",
@@ -88,7 +96,9 @@
         "800px-RedbudsOhio.jpg",
         "800px-Seeds_and_Fluff_of_Cottonwood.jpg",
         "800px-Silber-Ahorn_(Acer_saccharinum).jpg",
-        "800px-thumbnail.jpg"
+        "800px-Sugar_maple_3220.jpg",
+        "800px-thumbnail.jpg",
+        "Cercis_canadensis_16zz.jpg"
     ],
     "name": "Tree Identification",
     "note_models": [
@@ -127,7 +137,7 @@
                 {
                     "font": "Liberation Sans",
                     "media": [],
-                    "name": "full_picture",
+                    "name": "full_photo",
                     "ord": 3,
                     "rtl": false,
                     "size": 20,
@@ -136,7 +146,7 @@
                 {
                     "font": "Liberation Sans",
                     "media": [],
-                    "name": "full_picture_attribution",
+                    "name": "full_photo_attribution",
                     "ord": 4,
                     "rtl": false,
                     "size": 20,
@@ -144,7 +154,7 @@
                 },
                 {
                     "font": "Liberation Sans",
-                    "name": "leaf_picture",
+                    "name": "leaf_photo",
                     "ord": 5,
                     "rtl": false,
                     "size": 20,
@@ -153,7 +163,7 @@
                 {
                     "font": "Liberation Sans",
                     "media": [],
-                    "name": "leaf_picture_attribution",
+                    "name": "leaf_photo_attribution",
                     "ord": 6,
                     "rtl": false,
                     "size": 20,
@@ -161,7 +171,7 @@
                 },
                 {
                     "font": "Liberation Sans",
-                    "name": "flower_picture",
+                    "name": "flower_photo",
                     "ord": 7,
                     "rtl": false,
                     "size": 20,
@@ -170,8 +180,26 @@
                 {
                     "font": "Liberation Sans",
                     "media": [],
-                    "name": "flower_picture_attribution",
+                    "name": "flower_photo_attribution",
                     "ord": 8,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Liberation Sans",
+                    "media": [],
+                    "name": "fruit_or_seed_photo",
+                    "ord": 9,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Liberation Sans",
+                    "media": [],
+                    "name": "fruit_or_seed_photo_attribution",
+                    "ord": 10,
                     "rtl": false,
                     "size": 20,
                     "sticky": false
@@ -235,7 +263,7 @@
                     "did": null,
                     "name": "Recognition",
                     "ord": 0,
-                    "qfmt": "<span class='license'>{{full_picture_attribution}}</span><br />\n{{full_picture}}\n"
+                    "qfmt": "<span class='license'>{{full_photo_attribution}}</span><br />\n{{full_photo}}\n"
                 },
                 {
                     "afmt": "{{FrontSide}}<br />\n<span class='answer'>{{common_name}}</span><br />\n<span class='scientific-name'>{{scientific_name}}</span>\n",
@@ -244,7 +272,7 @@
                     "did": null,
                     "name": "Card 2",
                     "ord": 1,
-                    "qfmt": "<span class='license'>{{leaf_picture_attribution}}</span><br />\n{{leaf_picture}}\n"
+                    "qfmt": "<span class='license'>{{leaf_photo_attribution}}</span><br />\n{{leaf_photo}}\n"
                 },
                 {
                     "afmt": "{{FrontSide}}<br />\n<span class='answer'>{{common_name}}</span><br />\n<span class='scientific-name'>{{scientific_name}}</span>\n",
@@ -253,7 +281,7 @@
                     "did": null,
                     "name": "Card 3",
                     "ord": 2,
-                    "qfmt": "<span class='license'>{{flower_picture_attribution}}</span><br />\n{{flower_picture}}\n"
+                    "qfmt": "<span class='license'>{{flower_photo_attribution}}</span><br />\n{{flower_photo}}\n"
                 },
                 {
                     "afmt": "{{common_name}}<br /><br />\n<div class=\"blank scientific-name answer\">{{scientific_name}}</div>\n<span class=\"blank-label\">Scientific name</span>\n\n",
@@ -291,7 +319,9 @@
                 "<div><img src=\"1024px-Redbud_tree_(Cercis_canadensis)_Close_Up_View.jpg\"></div>",
                 "<a href=\"https://commons.wikimedia.org/wiki/File:Redbud_tree_(Cercis_canadensis)_Close_Up_View.jpg\">Lambique</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\">CC BY-SA 3.0</a>, via Wikimedia Commons",
                 "<img src=\"800px-RedbudsOhio.jpg\"><br>",
-                "<a href=\"https://commons.wikimedia.org/wiki/File:RedbudsOhio.jpg\">Greg Hume</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\">CC BY-SA 3.0</a>, via Wikimedia Commons"
+                "<a href=\"https://commons.wikimedia.org/wiki/File:RedbudsOhio.jpg\">Greg Hume</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\">CC BY-SA 3.0</a>, via Wikimedia Commons",
+                "<img src=\"Cercis_canadensis_16zz.jpg\">",
+                "<a href=\"https://commons.wikimedia.org/wiki/File:Cercis_canadensis_16zz.jpg\">Photo by David J. Stang</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>, via Wikimedia Commons"
             ],
             "flags": 0,
             "guid": "isxX1,Gpp0",
@@ -309,10 +339,12 @@
                 "Eastern N. America",
                 "<img src=\"450px-The_Mable_Hill_Park_Black_Walnut_Tree_-_London._(4621671958).jpg\">",
                 "<a href=\"https://commons.wikimedia.org/wiki/File:The_Mable_Hill_Park_Black_Walnut_Tree_-_London._(4621671958).jpg\">Jim Linwood from London</a>, <a href=\"https://creativecommons.org/licenses/by/2.0\">CC BY 2.0</a>, via Wikimedia Commons",
-                "<img src=\"800px-Black_Walnut_nut_and_leave_detail.JPG\">",
-                "Public domain, via <a href=\"https://commons.wikimedia.org/wiki/File:Black_Walnut_nut_and_leave_detail.JPG\">Wikimedia Commons</a>",
+                "<img src=\"800px-20130903Juglans_nigra8.jpg\">",
+                "<a href=\"https://commons.wikimedia.org/wiki/File:20130903Juglans_nigra8.jpg\">AnRo0002</a>, CC0, via Wikimedia Commons",
                 "<img src=\"600px-Male_catkins_Juglans_nigra1.jpg\">",
-                "<a href=\"https://commons.wikimedia.org/wiki/File:Male_catkins_Juglans_nigra1.jpg\">Gmihail at Serbian Wikipedia</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0/rs/deed.en\">CC BY-SA 3.0 RS</a>, via Wikimedia Commons"
+                "<a href=\"https://commons.wikimedia.org/wiki/File:Male_catkins_Juglans_nigra1.jpg\">Gmihail at Serbian Wikipedia</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0/rs/deed.en\">CC BY-SA 3.0 RS</a>, via Wikimedia Commons",
+                "<img src=\"800px-Black_Walnut_nut_and_leave_detail.JPG\">",
+                "Public domain, via&nbsp;<a href=\"https://commons.wikimedia.org/wiki/File:Black_Walnut_nut_and_leave_detail.JPG\">Wikimedia Commons</a>"
             ],
             "flags": 0,
             "guid": "E|sU#`%foy",
@@ -333,7 +365,9 @@
                 "<img src=\"800px-Peuplier_deltoïde_feuillage.jpg\">",
                 "<a href=\"https://commons.wikimedia.org/wiki/File:Peuplier_deltoïde_feuillage.jpg\">Laurent Bélanger</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>, via Wikimedia Commons",
                 "<img src=\"800px-Seeds_and_Fluff_of_Cottonwood.jpg\">",
-                "<a href=\"https://commons.wikimedia.org/wiki/File:Seeds_and_Fluff_of_Cottonwood.jpg\">Amiyashrivastava</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\">CC BY-SA 3.0</a>, via Wikimedia Commons"
+                "<a href=\"https://commons.wikimedia.org/wiki/File:Seeds_and_Fluff_of_Cottonwood.jpg\">Amiyashrivastava</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\">CC BY-SA 3.0</a>, via Wikimedia Commons",
+                "<img src=\"450px-Populus_deltoides_(Eastern_Cottonwood)_(42164128654).jpg\">",
+                "<a href=\"https://commons.wikimedia.org/wiki/File:Populus_deltoides_(Eastern_Cottonwood)_(42164128654).jpg\">Plant Image Library from Boston, USA</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.0\">CC BY-SA 2.0</a>, via Wikimedia Commons"
             ],
             "flags": 0,
             "guid": "n2Xa;{gbJO",
@@ -353,8 +387,10 @@
                 "<a href=\"https://commons.wikimedia.org/wiki/File:Fagus_grandifolia_12zz.jpg\">Photo by David J. Stang</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>, via Wikimedia Commons",
                 "<img src=\"800px-Fagus_grandifolia_36zz.jpg\">",
                 "<a href=\"https://commons.wikimedia.org/wiki/File:Fagus_grandifolia_36zz.jpg\">Photo by David J. Stang</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>, via Wikimedia Commons",
+                "<img src=\"800px-2021-04-17_11_34_07_American_Beech_flowers_along_a_walking_path_in_the_Franklin_Glen_section_of_Chantilly,_Fairfax_County,_Vir.jpg\">",
+                "<a href=\"https://commons.wikimedia.org/wiki/File:2021-04-17_11_34_07_American_Beech_flowers_along_a_walking_path_in_the_Franklin_Glen_section_of_Chantilly,_Fairfax_County,_Virginia.jpg\">Famartin</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>, via Wikimedia Commons",
                 "<img src=\"800px-Fagus_grandifolia_(American_Beech)_(37034236702).jpg\">",
-                "<a href=\"https://commons.wikimedia.org/wiki/File:Fagus_grandifolia_(American_Beech)_(37034236702).jpg\">Plant Image Library from Boston, USA</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.0\">CC BY-SA 2.0</a>, via Wikimedia Commons"
+                "<a href=\"https://commons.wikimedia.org/wiki/File:Fagus_grandifolia_(American_Beech)_(37034236702).jpg\">Plant Image Library from Boston, USA</a>,&nbsp;<a href=\"https://creativecommons.org/licenses/by-sa/2.0\">CC BY-SA 2.0</a>, via Wikimedia Commons"
             ],
             "flags": 0,
             "guid": "ofom*?kR)-",
@@ -374,8 +410,10 @@
                 "<a href=\"https://commons.wikimedia.org/wiki/File:2020-11-14_10_25_04_A_Red_Mulberry_turning_yellow_in_autumn_along_Hidden_Meadow_Drive_in_the_Franklin_Farm_section_of_Oak_Hill,_Fairfax_County,_Virginia.jpg\">Famartin</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>, via Wikimedia Commons",
                 "<img src=\"800px-thumbnail.jpg\">",
                 "<a href=\"https://commons.wikimedia.org/wiki/File:2020-04-10_14_11_15_New_leaves_and_flower_buds_in_spring_on_a_Red_Mulberry_along_Old_Dairy_Road_in_the_Franklin_Farm_section_of_Oak_Hill,_Fairfax_County,_Virginia.jpg\">Famartin</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>, via Wikimedia Commons",
+                "<img src=\"800px-2020-04-21_17_07_46_Red_Mulberry_leaves_and_flowers_within_Franklin_Farm_Park_in_the_Franklin_Farm_section_of_Oak_Hill,_Fairfa.jpg\">",
+                "<a href=\"https://commons.wikimedia.org/wiki/File:2020-04-21_17_07_46_Red_Mulberry_leaves_and_flowers_within_Franklin_Farm_Park_in_the_Franklin_Farm_section_of_Oak_Hill,_Fairfax_County,_Virginia.jpg\">Famartin</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>, via Wikimedia Commons",
                 "<img src=\"800px-Morus_sp._02.jpg\">",
-                "<a href=\"https://commons.wikimedia.org/wiki/File:Morus_sp._02.jpg\">Zeynel Cebeci</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>, via Wikimedia Commons"
+                "<a href=\"https://commons.wikimedia.org/wiki/File:Morus_sp._02.jpg\">Zeynel Cebeci</a>,&nbsp;<a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>, via Wikimedia Commons"
             ],
             "flags": 0,
             "guid": "IY0gh9Ok[E",
@@ -396,7 +434,9 @@
                 "<img src=\"800px-Acer_saccharum_1-jgreenlee_(5098070608).jpg\">",
                 "<a href=\"https://commons.wikimedia.org/wiki/File:Acer_saccharum_1-jgreenlee_(5098070608).jpg\">Superior National Forest</a>, <a href=\"https://creativecommons.org/licenses/by/2.0\">CC BY 2.0</a>, via Wikimedia Commons",
                 "<img src=\"800px-2020-03-28_18_23_36_Sugar_Maple_flowers_along_Brightfield_Lane_in_the_Franklin_Farm_section_of_Oak_Hill,_Fairfax_County,_Virgi.jpg\">",
-                "<a href=\"https://commons.wikimedia.org/wiki/File:2020-03-28_18_23_36_Sugar_Maple_flowers_along_Brightfield_Lane_in_the_Franklin_Farm_section_of_Oak_Hill,_Fairfax_County,_Virginia.jpg\">Famartin</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>, via Wikimedia Commons"
+                "<a href=\"https://commons.wikimedia.org/wiki/File:2020-03-28_18_23_36_Sugar_Maple_flowers_along_Brightfield_Lane_in_the_Franklin_Farm_section_of_Oak_Hill,_Fairfax_County,_Virginia.jpg\">Famartin</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>, via Wikimedia Commons",
+                "<img src=\"800px-Sugar_maple_3220.jpg\">",
+                "<a href=\"https://commons.wikimedia.org/wiki/File:Sugar_maple_3220.jpg\">Quercus1981</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\">CC BY-SA 3.0</a>, via Wikimedia Commons"
             ],
             "flags": 0,
             "guid": "hT|bM9cxP-",
@@ -417,7 +457,9 @@
                 "<img src=\"400px-Acer-negundo.jpg\">",
                 "<a href=\"https://commons.wikimedia.org/wiki/File:Acer-negundo.jpg\">Chrumps</a>, <a href=\"https://creativecommons.org/licenses/by/3.0\">CC BY 3.0</a>, via Wikimedia Commons",
                 "<img src=\"601px-Acer_negundo_2016-04-10_7201.jpg\">",
-                "<a href=\"https://commons.wikimedia.org/wiki/File:Acer_negundo_2016-04-10_7201.jpg\">Salicyna</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>, via Wikimedia Commons"
+                "<a href=\"https://commons.wikimedia.org/wiki/File:Acer_negundo_2016-04-10_7201.jpg\">Salicyna</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>, via Wikimedia Commons",
+                "<img src=\"800px-CloseUpManitobaMapleSeed.jpg\">",
+                "<a href=\"https://commons.wikimedia.org/wiki/File:CloseUpManitobaMapleSeed.jpg\">SriMesh</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\">CC BY-SA 3.0</a>, via Wikimedia Commons"
             ],
             "flags": 0,
             "guid": "iVrmnHG2>!",
@@ -437,6 +479,8 @@
                 "<a href=\"https://commons.wikimedia.org/wiki/File:2014-05-13_08_32_55_Eastern_Red_Cedar_at_South_Riding_Golf_Club_in_South_Riding,_Virginia.JPG\">Famartin</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\">CC BY-SA 3.0</a>, via Wikimedia Commons",
                 "<img src=\"600px-Juniperus_virginiana_twig,_Belgrade.jpg\">",
                 "<a href=\"https://commons.wikimedia.org/wiki/File:Juniperus_virginiana_twig,_Belgrade.jpg\">Gmihail at Serbian Wikipedia</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0/rs/deed.en\">CC BY-SA 3.0 RS</a>, via Wikimedia Commons",
+                "",
+                "",
                 "<img src=\"772px-Juniper_berries_q.jpg\">",
                 "<a href=\"https://commons.wikimedia.org/wiki/File:Juniper_berries_q.jpg\">Quadell</a>,&nbsp;<a href=\"http://creativecommons.org/licenses/by-sa/3.0/\">CC BY-SA 3.0</a>, via Wikimedia Commons"
             ],
@@ -459,7 +503,9 @@
                 "<img src=\"656px-Acer_macrophyllum_1199.jpg\">",
                 "<a href=\"https://commons.wikimedia.org/wiki/File:Acer_macrophyllum_1199.jpg\">Angilbas at English Wikipedia</a>, Public domain, via Wikimedia Commons",
                 "<div><img src=\"800px-Acer_macrophyllum_2.jpg\"></div>",
-                "<a href=\"https://commons.wikimedia.org/wiki/File:Acer_macrophyllum_2.jpg\">Thayne Tuason</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>, via Wikimedia Commons"
+                "<a href=\"https://commons.wikimedia.org/wiki/File:Acer_macrophyllum_2.jpg\">Thayne Tuason</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>, via Wikimedia Commons",
+                "<img src=\"800px-Acer_macrophyllum_3158.jpg\">",
+                "<a href=\"https://commons.wikimedia.org/wiki/File:Acer_macrophyllum_3158.jpg\">Walter Siegmund</a>, <a href=\"http://creativecommons.org/licenses/by-sa/3.0/\">CC BY-SA 3.0</a>, via Wikimedia Commons"
             ],
             "flags": 0,
             "guid": "L<h:Nb^q]b",
@@ -480,7 +526,9 @@
                 "<img src=\"800px-Acer_rubrum_22zz.jpg\">",
                 "<a href=\"https://commons.wikimedia.org/wiki/File:Acer_rubrum_22zz.jpg\">Photo by David J. Stang</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>, via Wikimedia Commons",
                 "<img src=\"736px-Acer_rubrum_kz3.JPG\">",
-                "<a href=\"https://commons.wikimedia.org/wiki/File:Acer_rubrum_kz3.JPG\">Krzysztof Ziarnek, Kenraiz</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>, via Wikimedia Commons"
+                "<a href=\"https://commons.wikimedia.org/wiki/File:Acer_rubrum_kz3.JPG\">Krzysztof Ziarnek, Kenraiz</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>, via Wikimedia Commons",
+                "<img src=\"800px-Acer_rubrum_seed_keys.jpg\">",
+                "<a href=\"https://commons.wikimedia.org/wiki/File:Acer_rubrum_seed_keys.jpg\">Dcrjsr</a>, <a href=\"https://creativecommons.org/licenses/by/3.0\">CC BY 3.0</a>, via Wikimedia Commons"
             ],
             "flags": 0,
             "guid": "I[Z,DlB1Ft",
@@ -501,7 +549,9 @@
                 "<img src=\"450px-Acer_saccharinum_002.jpg\">",
                 "<a href=\"https://commons.wikimedia.org/wiki/File:Acer_saccharinum_002.jpg\">Willow</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\">CC BY-SA 3.0</a>, via Wikimedia Commons",
                 "<img src=\"800px-20140312Acer_saccharinum.jpg\">",
-                "<a href=\"https://commons.wikimedia.org/wiki/File:20140312Acer_saccharinum.jpg\">AnRo0002</a>, CC0, via Wikimedia Commons"
+                "<a href=\"https://commons.wikimedia.org/wiki/File:20140312Acer_saccharinum.jpg\">AnRo0002</a>, CC0, via Wikimedia Commons",
+                "<img src=\"800px-2019-04-23_13_49_25_Ripe_Silver_Maple_seeds_along_Tranquility_Lane_in_the_Franklin_Farm_section_of_Oak_Hill,_Fairfax_County,_V.jpg\">",
+                "<a href=\"https://commons.wikimedia.org/wiki/File:2019-04-23_13_49_25_Ripe_Silver_Maple_seeds_along_Tranquility_Lane_in_the_Franklin_Farm_section_of_Oak_Hill,_Fairfax_County,_Virginia.jpg\">Famartin</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>, via Wikimedia Commons"
             ],
             "flags": 0,
             "guid": "JNMyTuc=*l",
