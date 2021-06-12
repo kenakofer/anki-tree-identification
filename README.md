@@ -18,7 +18,7 @@ Tweaking or removing any of these card types in Anki is trivial, and this deck a
  1. Paste in the code for the [CrowdAnki](https://ankiweb.net/shared/info/1788670778) add-on (At time of writing, it's `1788670778`, but be careful to only install add-ons you trust!)
  1. Close and reopen Anki
  1. `File` &#8594; `CrowdAnki: Import from Github`
- 1. Specify this here repository! (TODO)
+ 1. Specify this here repository! `https://github.com/kenakofer/anki-tree-identification` (For whatever reason, this isn't currently working for me, throwing a 404)
 
 
 
