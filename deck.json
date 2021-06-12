@@ -198,7 +198,7 @@
             "tags": [],
             "tmpls": [
                 {
-                    "afmt": "{{FrontSide}}\n{{common_name}}\n",
+                    "afmt": "{{FrontSide}}<br />\n{{common_name}}\n",
                     "bafmt": "",
                     "bfont": "",
                     "bqfmt": "",
@@ -209,7 +209,7 @@
                     "qfmt": "<span class='license'>{{full_picture_attribution}}</span><br />\n{{full_picture}}\n"
                 },
                 {
-                    "afmt": "{{FrontSide}}\n{{common_name}}\n",
+                    "afmt": "{{FrontSide}}<br />\n{{common_name}}\n",
                     "bafmt": "",
                     "bqfmt": "",
                     "did": null,
@@ -218,7 +218,7 @@
                     "qfmt": "<span class='license'>{{leaf_picture_attribution}}</span><br />\n{{leaf_picture}}\n"
                 },
                 {
-                    "afmt": "{{FrontSide}}\n{{common_name}}\n",
+                    "afmt": "{{FrontSide}}<br />\n{{common_name}}\n",
                     "bafmt": "",
                     "bqfmt": "",
                     "did": null,
