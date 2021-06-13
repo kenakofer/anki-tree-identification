@@ -72,6 +72,7 @@
         "450px-Flowers_of_Robinia_pseudoacacia.jpg",
         "450px-Fraxinus_americana_-_University_of_Kentucky_Arboretum_-_DSC09335.JPG",
         "450px-Fraxinus_americana_002.jpg",
+        "450px-Loblolly_Pines_South_Mississippi.JPG",
         "450px-Populus_deltoides_(Eastern_Cottonwood)_(42164128654).jpg",
         "450px-Sequoiadendron_giganteum_01.jpg",
         "450px-Sequoiadendron_giganteum_3zz.jpg",
@@ -88,11 +89,15 @@
         "736px-Acer_rubrum_kz3.JPG",
         "750px-Thuja_plicata_RF.jpg",
         "772px-Juniper_berries_q.jpg",
+        "799px-Cornus_florida_Arkansas.jpg",
+        "800px-2013-05-04_13_55_34_Cornus_florida_(Flowering_Dogwood)_at_988_Terrace_Boulevard_in_Ewing,_New_Jersey.JPG",
         "800px-20130903Juglans_nigra8.jpg",
         "800px-2014-05-13_08_32_55_Eastern_Red_Cedar_at_South_Riding_Golf_Club_in_South_Riding,_Virginia.JPG",
         "800px-20140312Acer_saccharinum.jpg",
         "800px-20150225Robinia_pseudoacacia.jpg",
+        "800px-2019-04-21_18_24_25_Loblolly_Pine_pollen_cones_along_Lees_Corner_Road_in_the_Armfield_Farm_section_of_Chantilly,_Fairfax_Count.jpg",
         "800px-2019-04-23_13_49_25_Ripe_Silver_Maple_seeds_along_Tranquility_Lane_in_the_Franklin_Farm_section_of_Oak_Hill,_Fairfax_County,_V.jpg",
+        "800px-2019-11-06_12_35_15_Flowering_Dogwood_leaves_and_fruit_in_late_autumn_along_Tayloe_Court_in_the_Franklin_Farm_section_of_Oak_H.jpg",
         "800px-2020-03-28_18_23_36_Sugar_Maple_flowers_along_Brightfield_Lane_in_the_Franklin_Farm_section_of_Oak_Hill,_Fairfax_County,_Virgi.jpg",
         "800px-2020-04-19_11_28_19_Flowers_developing_on_a_White_Ash_tree_along_Dunmore_Avenue_in_the_Parkway_Village_section_of_Ewing_Townsh.jpg",
         "800px-2020-04-21_17_07_46_Red_Mulberry_leaves_and_flowers_within_Franklin_Farm_Park_in_the_Franklin_Farm_section_of_Oak_Hill,_Fairfa.jpg",
@@ -106,6 +111,7 @@
         "800px-Asimina_triloba_Asymina_trójklapowa_2020-07-18_01.jpg",
         "800px-Black_Walnut_nut_and_leave_detail.JPG",
         "800px-CloseUpManitobaMapleSeed.jpg",
+        "800px-Cornus_florida_(Flowering_Dogwood)_(34796659160).jpg",
         "800px-Fagus_grandifolia_(American_Beech)_(37034236702).jpg",
         "800px-Fagus_grandifolia_36zz.jpg",
         "800px-Fraxinus_americana_seeds.jpg",
@@ -113,6 +119,8 @@
         "800px-Morus_sp._02.jpg",
         "800px-Pawpaw_(30381530933).jpg",
         "800px-Peuplier_deltoïde_feuillage.jpg",
+        "800px-Pinus_taeda_14zz.jpg",
+        "800px-Pinus_taeda_cone_Blackwater_NWR_MD.jpg",
         "800px-Pseudotsuga_menziesii_branch_underside.JPG",
         "800px-Pseudotsuga_menziesii_var._glauca_young_female_cone_-_Keila.jpg",
         "800px-RedbudsOhio.jpg",
@@ -741,6 +749,52 @@
             ],
             "flags": 0,
             "guid": "FUK:#Iq)_%",
+            "note_model_uuid": "5f79d534-cadc-11eb-9ba1-037543748ddc",
+            "tags": [
+                "ti::north_america_east"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Flowering Dogwood",
+                "Cornus florida",
+                "Eastern N. America",
+                "<img src=\"800px-2013-05-04_13_55_34_Cornus_florida_(Flowering_Dogwood)_at_988_Terrace_Boulevard_in_Ewing,_New_Jersey.JPG\">",
+                "<a href=\"https://commons.wikimedia.org/wiki/File:2013-05-04_13_55_34_Cornus_florida_(Flowering_Dogwood)_at_988_Terrace_Boulevard_in_Ewing,_New_Jersey.JPG\">Famartin</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\">CC BY-SA 3.0</a>, via Wikimedia Commons",
+                "<img src=\"800px-Cornus_florida_(Flowering_Dogwood)_(34796659160).jpg\">",
+                "<a href=\"https://commons.wikimedia.org/wiki/File:Cornus_florida_(Flowering_Dogwood)_(34796659160).jpg\">Plant Image Library from Boston, USA</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.0\">CC BY-SA 2.0</a>, via Wikimedia Commons",
+                "<img src=\"799px-Cornus_florida_Arkansas.jpg\">",
+                "<a href=\"https://commons.wikimedia.org/wiki/File:Cornus_florida_Arkansas.jpg\">Eric Hunt</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>, via Wikimedia Commons",
+                "<img src=\"800px-2019-11-06_12_35_15_Flowering_Dogwood_leaves_and_fruit_in_late_autumn_along_Tayloe_Court_in_the_Franklin_Farm_section_of_Oak_H.jpg\">",
+                "<a href=\"https://commons.wikimedia.org/wiki/File:2019-11-06_12_35_15_Flowering_Dogwood_leaves_and_fruit_in_late_autumn_along_Tayloe_Court_in_the_Franklin_Farm_section_of_Oak_Hill,_Fairfax_County,_Virginia.jpg\">Famartin</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>, via Wikimedia Commons"
+            ],
+            "flags": 0,
+            "guid": "HZI_ygOP[6",
+            "note_model_uuid": "5f79d534-cadc-11eb-9ba1-037543748ddc",
+            "tags": [
+                "ti::north_america_east"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Loblolly Pine",
+                "Pinus taeda",
+                "Eastern N. America",
+                "<img src=\"450px-Loblolly_Pines_South_Mississippi.JPG\">",
+                "<a href=\"https://commons.wikimedia.org/wiki/File:Loblolly_Pines_South_Mississippi.JPG\">Woodlot</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\">CC BY-SA 3.0</a>, via Wikimedia Commons",
+                "<img src=\"800px-Pinus_taeda_14zz.jpg\">",
+                "<a href=\"https://commons.wikimedia.org/wiki/File:Pinus_taeda_14zz.jpg\">Photo by David J. Stang</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>, via Wikimedia Commons",
+                "<img src=\"800px-2019-04-21_18_24_25_Loblolly_Pine_pollen_cones_along_Lees_Corner_Road_in_the_Armfield_Farm_section_of_Chantilly,_Fairfax_Count.jpg\">",
+                "<a href=\"https://commons.wikimedia.org/wiki/File:2019-04-21_18_24_25_Loblolly_Pine_pollen_cones_along_Lees_Corner_Road_in_the_Armfield_Farm_section_of_Chantilly,_Fairfax_County,_Virginia.jpg\">Famartin</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>, via Wikimedia Commons",
+                "<img src=\"800px-Pinus_taeda_cone_Blackwater_NWR_MD.jpg\">",
+                "<a href=\"https://commons.wikimedia.org/wiki/File:Pinus_taeda_cone_Blackwater_NWR_MD.jpg\">Alicia Pimental from Queenstown, Maryland, United States</a>, <a href=\"https://creativecommons.org/licenses/by/2.0\">CC BY 2.0</a>, via Wikimedia Commons"
+            ],
+            "flags": 0,
+            "guid": "xORaMc~nUY",
             "note_model_uuid": "5f79d534-cadc-11eb-9ba1-037543748ddc",
             "tags": [
                 "ti::north_america_east"
