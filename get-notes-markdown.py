@@ -4,7 +4,7 @@ import json
 HEADER = "<h1>All 🌲🌴 **TREES** 🎄🌳 in this deck</h1>"
 NOTE_SEPARATOR = "\n<hr>\n"
 HTML_REPLACEMENTS = [
-    ['<img src="', '<img width="200" src="media/']
+    ['<img src="', '<img height="300" src="media/']
 ]
 JSON_FILE = "deck.json"
 
