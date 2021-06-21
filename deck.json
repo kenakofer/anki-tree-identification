@@ -87,6 +87,7 @@
         "450px-Tall_bigleaf_maple.JPG",
         "450px-The_Mable_Hill_Park_Black_Walnut_Tree_-_London._(4621671958).jpg",
         "450px-Thuja_plicata_(24959698947).jpg",
+        "450px-Westover_Park_(31060342845).jpg",
         "479px-Asimina_triloba_(Paw_Paw)_(24374695518).jpg",
         "479px-Sequoia_sempervirens_by_Line1.jpg",
         "490px-2014-10-30_11_09_40_Red_Maple_during_autumn_on_Lower_Ferry_Road_in_Ewing,_New_Jersey.JPG",
@@ -103,6 +104,7 @@
         "750px-Thuja_plicata_RF.jpg",
         "772px-Juniper_berries_q.jpg",
         "799px-Cornus_florida_Arkansas.jpg",
+        "799px-Maclura_pomifera_003.JPG",
         "800px-2013-05-04_13_55_34_Cornus_florida_(Flowering_Dogwood)_at_988_Terrace_Boulevard_in_Ewing,_New_Jersey.JPG",
         "800px-20130903Juglans_nigra8.jpg",
         "800px-2014-05-13_08_32_55_Eastern_Red_Cedar_at_South_Riding_Golf_Club_in_South_Riding,_Virginia.JPG",
@@ -129,6 +131,8 @@
         "800px-Fagus_grandifolia_36zz.jpg",
         "800px-Fraxinus_americana_seeds.jpg",
         "800px-GreenSeedConesSequoiadendronGiganteum.JPG",
+        "800px-Maclura_pomifera,_loof,_Manie_van_der_Schijff_BT,_a.jpg",
+        "800px-Maclura_pomifera.JPG",
         "800px-Morus_sp._02.jpg",
         "800px-Pawpaw_(30381530933).jpg",
         "800px-Peuplier_deltoïde_feuillage.jpg",
@@ -144,7 +148,8 @@
         "800px-Sugar_maple_3220.jpg",
         "800px-thumbnail.jpg",
         "Cercis_canadensis_16zz.jpg",
-        "Pseudotsuga_menziesii_12zz.jpg"
+        "Pseudotsuga_menziesii_12zz.jpg",
+        "paste-58187835caf80d160de9f853d6b13ae420a00962.jpg"
     ],
     "name": "Tree Identification",
     "note_models": [
@@ -808,6 +813,29 @@
             ],
             "flags": 0,
             "guid": "xORaMc~nUY",
+            "note_model_uuid": "5f79d534-cadc-11eb-9ba1-037543748ddc",
+            "tags": [
+                "ti::north_america_east"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Osage orange/Hedge apple",
+                "Maclura pomifera",
+                "Eastern N. America",
+                "<img src=\"paste-58187835caf80d160de9f853d6b13ae420a00962.jpg\"><img src=\"450px-Westover_Park_(31060342845).jpg\">",
+                "<a href=\"https://commons.wikimedia.org/wiki/File:Lasdon_Arboretum_-_Maclura_pomifera_-_IMG_1420.jpg\">Daderot</a>, Public domain, via Wikimedia Commons,&nbsp;<a href=\"https://commons.wikimedia.org/wiki/File:Westover_Park_(31060342845).jpg\">dankeck</a>, CC0, via Wikimedia Commons",
+                "<img src=\"800px-Maclura_pomifera,_loof,_Manie_van_der_Schijff_BT,_a.jpg\">",
+                "<a href=\"https://commons.wikimedia.org/wiki/File:Maclura_pomifera,_loof,_Manie_van_der_Schijff_BT,_a.jpg\">JMK</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>, via Wikimedia Commons",
+                "<img src=\"799px-Maclura_pomifera_003.JPG\">",
+                "<a href=\"https://commons.wikimedia.org/wiki/File:Maclura_pomifera_003.JPG\">H. Zell</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\">CC BY-SA 3.0</a>, via Wikimedia Commons",
+                "<img src=\"800px-Maclura_pomifera.JPG\">",
+                "<a href=\"https://commons.wikimedia.org/wiki/File:Maclura_pomifera.JPG\">Mahieddine23</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\">CC BY-SA 3.0</a>, via Wikimedia Commons"
+            ],
+            "flags": 0,
+            "guid": "cAF.?*&N5Z",
             "note_model_uuid": "5f79d534-cadc-11eb-9ba1-037543748ddc",
             "tags": [
                 "ti::north_america_east"
