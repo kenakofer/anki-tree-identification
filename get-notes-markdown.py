@@ -42,6 +42,7 @@ if __name__ == "__main__":
 
     notes = data['notes']
     print(HEADER)
+    print("<em>("+str(len(notes))+" notes)</em>")
     for note in notes:
         print(generate_html_for_note(note, field_names))
         print(NOTE_SEPARATOR)

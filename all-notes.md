@@ -1,4 +1,5 @@
 <h1>All 🌲🌴 **TREES** 🎄🌳 in this deck</h1>
+<em>(25 notes)</em>
 <h2>Eastern Redbud</h2><table>
 <tr><td><code>common_name</code></td><td>Eastern Redbud</td></tr>
 <tr><td><code>scientific_name</code></td><td>Cercis canadensis</td></tr>
