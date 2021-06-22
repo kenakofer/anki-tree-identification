@@ -1,5 +1,5 @@
 <h1>All 🌲🌴 **TREES** 🎄🌳 in this deck</h1>
-<em>(25 notes)</em>
+<em>(27 notes)</em>
 <h2>Eastern Redbud</h2><table>
 <tr><td><code>common_name</code></td><td>Eastern Redbud</td></tr>
 <tr><td><code>scientific_name</code></td><td>Cercis canadensis</td></tr>
@@ -373,6 +373,36 @@
 <tr><td><code>flower_photo_attribution</code></td><td><a href="https://commons.wikimedia.org/wiki/File:Gleditsia_triacanthos_in_Donetsk_2.jpg">Andrew Butko</a>, <a href="https://creativecommons.org/licenses/by-sa/3.0">CC BY-SA 3.0</a>, via Wikimedia Commons</td></tr>
 <tr><td><code>fruit_or_seed_photo</code></td><td><img height="300" src="media/800px-Baden-Baden-Gleditsia_triacanthos-70-Lederhuelsenbaum-Frucht-2012-gje.jpg"></td></tr>
 <tr><td><code>fruit_or_seed_photo_attribution</code></td><td><a href="https://commons.wikimedia.org/wiki/File:Baden-Baden-Gleditsia_triacanthos-70-Lederhuelsenbaum-Frucht-2012-gje.jpg">Gerd Eichmann</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a>, via Wikimedia Commons</td></tr></table>
+
+<hr>
+
+<h2>Northern Catalpa</h2><table>
+<tr><td><code>common_name</code></td><td>Northern Catalpa</td></tr>
+<tr><td><code>scientific_name</code></td><td>Catalpa speciosa</td></tr>
+<tr><td><code>native_region</code></td><td>Eastern N. America</td></tr>
+<tr><td><code>full_photo</code></td><td><img height="300" src="media/485px-Catalpa_speciosa_20060624.jpg"><img height="300" src="media/450px-Catalpa_speciosa,_2015-06-02,_Homewood_Cemetery,_04.jpg"></td></tr>
+<tr><td><code>full_photo_attribution</code></td><td><a href="https://commons.wikimedia.org/wiki/File:Catalpa_speciosa_20060624.jpg">Mark Wagner</a>, <a href="https://creativecommons.org/licenses/by/2.5">CC BY 2.5</a>, via Wikimedia Commons,&nbsp;<a href="https://commons.wikimedia.org/wiki/File:Catalpa_speciosa,_2015-06-02,_Homewood_Cemetery,_04.jpg">Cbaile19</a>, CC0, via Wikimedia Commons</td></tr>
+<tr><td><code>leaf_photo</code></td><td><img height="300" src="media/800px-Catalpa_speciosa_10zz.jpg"></td></tr>
+<tr><td><code>leaf_photo_attribution</code></td><td><a href="https://commons.wikimedia.org/wiki/File:Catalpa_speciosa_10zz.jpg">Photo by David J. Stang</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a>, via Wikimedia Commons</td></tr>
+<tr><td><code>flower_photo</code></td><td><img height="300" src="media/450px-Catalpa_speciosa.JPG"></td></tr>
+<tr><td><code>flower_photo_attribution</code></td><td><a href="https://commons.wikimedia.org/wiki/File:Catalpa_speciosa.JPG">Qwert1234</a>, <a href="http://creativecommons.org/licenses/sa/1.0/">CC SA 1.0</a>, via Wikimedia Commons</td></tr>
+<tr><td><code>fruit_or_seed_photo</code></td><td><img height="300" src="media/800px-Catalpa_speciosa_7zz.jpg"></td></tr>
+<tr><td><code>fruit_or_seed_photo_attribution</code></td><td><a href="https://commons.wikimedia.org/wiki/File:Catalpa_speciosa_7zz.jpg">Photo by David J. Stang</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a>, via Wikimedia Commons</td></tr></table>
+
+<hr>
+
+<h2>Ponderosa pine</h2><table>
+<tr><td><code>common_name</code></td><td>Ponderosa pine</td></tr>
+<tr><td><code>scientific_name</code></td><td>Pinus ponderosa</td></tr>
+<tr><td><code>native_region</code></td><td>Western N. America</td></tr>
+<tr><td><code>full_photo</code></td><td><img height="300" src="media/422px-Pinus_ponderosa_15932.JPG"><img height="300" src="media/400px-Pinus_ponderosa_7979.JPG"></td></tr>
+<tr><td><code>full_photo_attribution</code></td><td><a href="https://commons.wikimedia.org/wiki/File:Pinus_ponderosa_15932.JPG">Walter Siegmund</a>, <a href="http://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</a>, via Wikimedia Commons,&nbsp;<a href="https://commons.wikimedia.org/wiki/File:Pinus_ponderosa_7979.JPG">Walter Siegmund</a>, <a href="https://creativecommons.org/licenses/by-sa/3.0">CC BY-SA 3.0</a>, via Wikimedia Commons</td></tr>
+<tr><td><code>leaf_photo</code></td><td><img height="300" src="media/800px-Pinus_ponderosa_brachyptera_foliage_cones_Arizona.jpg"></td></tr>
+<tr><td><code>leaf_photo_attribution</code></td><td><a href="https://commons.wikimedia.org/wiki/File:Pinus_ponderosa_brachyptera_foliage_cones_Arizona.jpg">Alan Levine from Strawberry, United States</a>, <a href="https://creativecommons.org/licenses/by/2.0">CC BY 2.0</a>, via Wikimedia Commons</td></tr>
+<tr><td><code>flower_photo</code></td><td><img height="300" src="media/800px-Pinus_ponderosa_4755.JPG"></td></tr>
+<tr><td><code>flower_photo_attribution</code></td><td><a href="https://commons.wikimedia.org/wiki/File:Pinus_ponderosa_4755.JPG">Walter Siegmund</a>, <a href="https://creativecommons.org/licenses/by-sa/3.0">CC BY-SA 3.0</a>, via Wikimedia Commons</td></tr>
+<tr><td><code>fruit_or_seed_photo</code></td><td><img height="300" src="media/800px-Pinus_ponderosa_var._scopulorum_(7458435882).jpg"></td></tr>
+<tr><td><code>fruit_or_seed_photo_attribution</code></td><td><a href="https://commons.wikimedia.org/wiki/File:Pinus_ponderosa_var._scopulorum_(7458435882).jpg">Matt Lavin from Bozeman, Montana, USA</a>, <a href="https://creativecommons.org/licenses/by-sa/2.0">CC BY-SA 2.0</a>, via Wikimedia Commons</td></tr></table>
 
 <hr>
 

@@ -67,11 +67,13 @@
         "400px-Fagus_grandifolia_12zz.jpg",
         "400px-Fagus_grandifolia_JPG1Ms.jpg",
         "400px-Juglans_nigra_SCA-0322.jpg",
+        "400px-Pinus_ponderosa_7979.JPG",
         "400px-Quercus_alba_kz01.jpg",
         "400px-Quercus_macrocarpa_(Bur_Oak)_(33645993643).jpg",
         "410px-Thuja_plicata_Vancouver.jpg",
         "415px-Robinia_pseudoacacia_3.jpg",
         "421px-Robinia_pseudoacacia_-_Robinie_-_Mörfelden-Walldorf_-_Germany_-_02.jpg",
+        "422px-Pinus_ponderosa_15932.JPG",
         "42421fffefca484dc5878283e0ad2eb0.jpg",
         "425px-Thuja_plicata_kz1.JPG",
         "447px-Hatfield_Elm_Tree,_Hatfield,_MA_-_May_2020.jpg",
@@ -80,6 +82,8 @@
         "450px-2021-04-22_18_54_32_Male_flowers_(catkins)_on_a_White_Oak_within_a_wooded_area_in_the_Franklin_Farm_section_of_Oak_Hill,_Fairf.jpg",
         "450px-Acer_saccharinum_002.jpg",
         "450px-Asimina_triloba_Asymina_trójklapowa_2014-10-12_01.jpg",
+        "450px-Catalpa_speciosa,_2015-06-02,_Homewood_Cemetery,_04.jpg",
+        "450px-Catalpa_speciosa.JPG",
         "450px-Douglas_fir_cone.jpg",
         "450px-Eastern_Cottonwood_(Populus_deltoides)_-_Flickr_-_Jay_Sturner_(2).jpg",
         "450px-Flowers_of_Robinia_pseudoacacia.jpg",
@@ -101,6 +105,7 @@
         "450px-thumbnail.jpg",
         "479px-Asimina_triloba_(Paw_Paw)_(24374695518).jpg",
         "479px-Sequoia_sempervirens_by_Line1.jpg",
+        "485px-Catalpa_speciosa_20060624.jpg",
         "490px-2014-10-30_11_09_40_Red_Maple_during_autumn_on_Lower_Ferry_Road_in_Ewing,_New_Jersey.JPG",
         "491px-Juniperus_virginiana_tree.jpg",
         "508px-Witte_esdoorn_(Acer_saccharinum)._Locatie,_Hortus_(Haren,_Groningen)_01.JPG",
@@ -138,6 +143,8 @@
         "800px-Asimina_triloba_Asymina_trójklapowa_2020-07-18_01.jpg",
         "800px-Baden-Baden-Gleditsia_triacanthos-70-Lederhuelsenbaum-Frucht-2012-gje.jpg",
         "800px-Black_Walnut_nut_and_leave_detail.JPG",
+        "800px-Catalpa_speciosa_10zz.jpg",
+        "800px-Catalpa_speciosa_7zz.jpg",
         "800px-CloseUpManitobaMapleSeed.jpg",
         "800px-Cornus_florida_(Flowering_Dogwood)_(34796659160).jpg",
         "800px-Fagus_grandifolia_(American_Beech)_(37034236702).jpg",
@@ -151,6 +158,9 @@
         "800px-Morus_sp._02.jpg",
         "800px-Pawpaw_(30381530933).jpg",
         "800px-Peuplier_deltoïde_feuillage.jpg",
+        "800px-Pinus_ponderosa_4755.JPG",
+        "800px-Pinus_ponderosa_brachyptera_foliage_cones_Arizona.jpg",
+        "800px-Pinus_ponderosa_var._scopulorum_(7458435882).jpg",
         "800px-Pinus_taeda_14zz.jpg",
         "800px-Pinus_taeda_cone_Blackwater_NWR_MD.jpg",
         "800px-Pseudotsuga_menziesii_branch_underside.JPG",
@@ -322,7 +332,7 @@
             ],
             "sortf": 1,
             "tags": [
-                "ti::north_america_east"
+                "ti::north_america_west"
             ],
             "tmpls": [
                 {
@@ -951,6 +961,52 @@
             "note_model_uuid": "5f79d534-cadc-11eb-9ba1-037543748ddc",
             "tags": [
                 "ti::north_america_east"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Northern Catalpa",
+                "Catalpa speciosa",
+                "Eastern N. America",
+                "<img src=\"485px-Catalpa_speciosa_20060624.jpg\"><img src=\"450px-Catalpa_speciosa,_2015-06-02,_Homewood_Cemetery,_04.jpg\">",
+                "<a href=\"https://commons.wikimedia.org/wiki/File:Catalpa_speciosa_20060624.jpg\">Mark Wagner</a>, <a href=\"https://creativecommons.org/licenses/by/2.5\">CC BY 2.5</a>, via Wikimedia Commons,&nbsp;<a href=\"https://commons.wikimedia.org/wiki/File:Catalpa_speciosa,_2015-06-02,_Homewood_Cemetery,_04.jpg\">Cbaile19</a>, CC0, via Wikimedia Commons",
+                "<img src=\"800px-Catalpa_speciosa_10zz.jpg\">",
+                "<a href=\"https://commons.wikimedia.org/wiki/File:Catalpa_speciosa_10zz.jpg\">Photo by David J. Stang</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>, via Wikimedia Commons",
+                "<img src=\"450px-Catalpa_speciosa.JPG\">",
+                "<a href=\"https://commons.wikimedia.org/wiki/File:Catalpa_speciosa.JPG\">Qwert1234</a>, <a href=\"http://creativecommons.org/licenses/sa/1.0/\">CC SA 1.0</a>, via Wikimedia Commons",
+                "<img src=\"800px-Catalpa_speciosa_7zz.jpg\">",
+                "<a href=\"https://commons.wikimedia.org/wiki/File:Catalpa_speciosa_7zz.jpg\">Photo by David J. Stang</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>, via Wikimedia Commons"
+            ],
+            "flags": 0,
+            "guid": "w/{Tv)v8@D",
+            "note_model_uuid": "5f79d534-cadc-11eb-9ba1-037543748ddc",
+            "tags": [
+                "ti::north_america_east"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Ponderosa pine",
+                "Pinus ponderosa",
+                "Western N. America",
+                "<img src=\"422px-Pinus_ponderosa_15932.JPG\"><img src=\"400px-Pinus_ponderosa_7979.JPG\">",
+                "<a href=\"https://commons.wikimedia.org/wiki/File:Pinus_ponderosa_15932.JPG\">Walter Siegmund</a>, <a href=\"http://creativecommons.org/licenses/by-sa/3.0/\">CC BY-SA 3.0</a>, via Wikimedia Commons,&nbsp;<a href=\"https://commons.wikimedia.org/wiki/File:Pinus_ponderosa_7979.JPG\">Walter Siegmund</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\">CC BY-SA 3.0</a>, via Wikimedia Commons",
+                "<img src=\"800px-Pinus_ponderosa_brachyptera_foliage_cones_Arizona.jpg\">",
+                "<a href=\"https://commons.wikimedia.org/wiki/File:Pinus_ponderosa_brachyptera_foliage_cones_Arizona.jpg\">Alan Levine from Strawberry, United States</a>, <a href=\"https://creativecommons.org/licenses/by/2.0\">CC BY 2.0</a>, via Wikimedia Commons",
+                "<img src=\"800px-Pinus_ponderosa_4755.JPG\">",
+                "<a href=\"https://commons.wikimedia.org/wiki/File:Pinus_ponderosa_4755.JPG\">Walter Siegmund</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\">CC BY-SA 3.0</a>, via Wikimedia Commons",
+                "<img src=\"800px-Pinus_ponderosa_var._scopulorum_(7458435882).jpg\">",
+                "<a href=\"https://commons.wikimedia.org/wiki/File:Pinus_ponderosa_var._scopulorum_(7458435882).jpg\">Matt Lavin from Bozeman, Montana, USA</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.0\">CC BY-SA 2.0</a>, via Wikimedia Commons"
+            ],
+            "flags": 0,
+            "guid": "Jxg:>xZAgO",
+            "note_model_uuid": "5f79d534-cadc-11eb-9ba1-037543748ddc",
+            "tags": [
+                "ti::north_america_west"
             ]
         }
     ]
