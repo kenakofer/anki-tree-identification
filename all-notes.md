@@ -1,5 +1,5 @@
 <h1>All 🌲🌴 **TREES** 🎄🌳 in this deck</h1>
-<em>(27 notes)</em>
+<em>(28 notes)</em>
 <h2>Eastern Redbud</h2><table>
 <tr><td><code>common_name</code></td><td>Eastern Redbud</td></tr>
 <tr><td><code>scientific_name</code></td><td>Cercis canadensis</td></tr>
@@ -403,6 +403,21 @@
 <tr><td><code>flower_photo_attribution</code></td><td><a href="https://commons.wikimedia.org/wiki/File:Pinus_ponderosa_4755.JPG">Walter Siegmund</a>, <a href="https://creativecommons.org/licenses/by-sa/3.0">CC BY-SA 3.0</a>, via Wikimedia Commons</td></tr>
 <tr><td><code>fruit_or_seed_photo</code></td><td><img height="300" src="media/800px-Pinus_ponderosa_var._scopulorum_(7458435882).jpg"></td></tr>
 <tr><td><code>fruit_or_seed_photo_attribution</code></td><td><a href="https://commons.wikimedia.org/wiki/File:Pinus_ponderosa_var._scopulorum_(7458435882).jpg">Matt Lavin from Bozeman, Montana, USA</a>, <a href="https://creativecommons.org/licenses/by-sa/2.0">CC BY-SA 2.0</a>, via Wikimedia Commons</td></tr></table>
+
+<hr>
+
+<h2>American Sycamore</h2><table>
+<tr><td><code>common_name</code></td><td>American Sycamore</td></tr>
+<tr><td><code>scientific_name</code></td><td>Platanus occidentalis</td></tr>
+<tr><td><code>native_region</code></td><td>Eastern N. America</td></tr>
+<tr><td><code>full_photo</code></td><td><img height="300" src="media/450px-Moon_Tree_in_Keystone_Heights_Florida.jpg"><img height="300" src="media/401px-Platanus_occidentalis_Bloomington.jpg"></td></tr>
+<tr><td><code>full_photo_attribution</code></td><td><a href="https://commons.wikimedia.org/wiki/File:Moon_Tree_in_Keystone_Heights_Florida.jpg">Whoisjohngalt</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a>, via Wikimedia Commons, <a href="https://commons.wikimedia.org/wiki/File:Platanus_occidentalis_Bloomington.jpg">Jeff Hart from Bloomington, IN, USA</a>, <a href="https://creativecommons.org/licenses/by/2.0">CC BY 2.0</a>, via Wikimedia Commons</td></tr>
+<tr><td><code>leaf_photo</code></td><td><img height="300" src="media/448px-A8-2-Platanus_occidentalis_(Eastern_Sycamore).JPG"></td></tr>
+<tr><td><code>leaf_photo_attribution</code></td><td><a href="https://commons.wikimedia.org/wiki/File:A8-2-Platanus_occidentalis_(Eastern_Sycamore).JPG">MOHAMMED HAMZA</a>, <a href="https://creativecommons.org/licenses/by-sa/3.0">CC BY-SA 3.0</a>, via Wikimedia Commons</td></tr>
+<tr><td><code>flower_photo</code></td><td><img height="300" src="media/34241887576_8e2a31e601_o.jpg"></td></tr>
+<tr><td><code>flower_photo_attribution</code></td><td><a href="https://www.flickr.com/photos/135541615@N05/34241887576">Na. J. Pilla</a>, <a href="https://creativecommons.org/licenses/by-sa/2.0">CC BY-SA 2.0</a>, via Flickr</td></tr>
+<tr><td><code>fruit_or_seed_photo</code></td><td><img height="300" src="media/800px-Platanus_occidentalis-Platane_3462.jpg"></td></tr>
+<tr><td><code>fruit_or_seed_photo_attribution</code></td><td><a href="https://commons.wikimedia.org/wiki/File:Platanus_occidentalis-Platane_3462.jpg">Colsu</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a>, via Wikimedia Commons</td></tr></table>
 
 <hr>
 

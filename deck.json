@@ -61,6 +61,7 @@
         "337px-Acer_macrophyllum_1.jpg",
         "337px-Gleditsia_triacanthos_at_the_El_Paso_Museum_of_Archaelogy.jpg",
         "34150993885_f3ff894cdd_o.jpg",
+        "34241887576_8e2a31e601_o.jpg",
         "398px-Quercus_macrocarpa_(23797146829).jpg",
         "400px-Acer-negundo.jpg",
         "400px-Acer_rubrum_October_Glory_5zz.jpg",
@@ -70,6 +71,7 @@
         "400px-Pinus_ponderosa_7979.JPG",
         "400px-Quercus_alba_kz01.jpg",
         "400px-Quercus_macrocarpa_(Bur_Oak)_(33645993643).jpg",
+        "401px-Platanus_occidentalis_Bloomington.jpg",
         "410px-Thuja_plicata_Vancouver.jpg",
         "415px-Robinia_pseudoacacia_3.jpg",
         "421px-Robinia_pseudoacacia_-_Robinie_-_Mörfelden-Walldorf_-_Germany_-_02.jpg",
@@ -77,6 +79,7 @@
         "42421fffefca484dc5878283e0ad2eb0.jpg",
         "425px-Thuja_plicata_kz1.JPG",
         "447px-Hatfield_Elm_Tree,_Hatfield,_MA_-_May_2020.jpg",
+        "448px-A8-2-Platanus_occidentalis_(Eastern_Sycamore).JPG",
         "450px-2015-10-21_10_03_14_White_Ash_sapling_during_autumn_along_North_Olden_Avenue_(Mercer_County_Route_622)_in_Ewing,_New_Jersey.jpg",
         "450px-2019-04-27_15_08_12_White_Oak_leafing_out_in_mid-Spring_along_Franklin_Farm_Road_in_the_Franklin_Farm_section_of_Oak_Hill,_Fai.jpg",
         "450px-2021-04-22_18_54_32_Male_flowers_(catkins)_on_a_White_Oak_within_a_wooded_area_in_the_Franklin_Farm_section_of_Oak_Hill,_Fairf.jpg",
@@ -90,6 +93,7 @@
         "450px-Fraxinus_americana_-_University_of_Kentucky_Arboretum_-_DSC09335.JPG",
         "450px-Fraxinus_americana_002.jpg",
         "450px-Loblolly_Pines_South_Mississippi.JPG",
+        "450px-Moon_Tree_in_Keystone_Heights_Florida.jpg",
         "450px-Old_American_elm_tree_near_Horticultural_Hall_in_Halifax_Public_Gardens_-_August_2019.jpg",
         "450px-Pinus_taeda_1zz.jpg",
         "450px-Populus_deltoides_(Eastern_Cottonwood)_(42164128654).jpg",
@@ -163,6 +167,7 @@
         "800px-Pinus_ponderosa_var._scopulorum_(7458435882).jpg",
         "800px-Pinus_taeda_14zz.jpg",
         "800px-Pinus_taeda_cone_Blackwater_NWR_MD.jpg",
+        "800px-Platanus_occidentalis-Platane_3462.jpg",
         "800px-Pseudotsuga_menziesii_branch_underside.JPG",
         "800px-Pseudotsuga_menziesii_var._glauca_young_female_cone_-_Keila.jpg",
         "800px-Quercus_macrocarpa_(5108085936).jpg",
@@ -332,7 +337,7 @@
             ],
             "sortf": 1,
             "tags": [
-                "ti::north_america_west"
+                "ti::north_america_east"
             ],
             "tmpls": [
                 {
@@ -1007,6 +1012,29 @@
             "note_model_uuid": "5f79d534-cadc-11eb-9ba1-037543748ddc",
             "tags": [
                 "ti::north_america_west"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "American Sycamore",
+                "Platanus occidentalis",
+                "Eastern N. America",
+                "<img src=\"450px-Moon_Tree_in_Keystone_Heights_Florida.jpg\"><img src=\"401px-Platanus_occidentalis_Bloomington.jpg\">",
+                "<a href=\"https://commons.wikimedia.org/wiki/File:Moon_Tree_in_Keystone_Heights_Florida.jpg\">Whoisjohngalt</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>, via Wikimedia Commons, <a href=\"https://commons.wikimedia.org/wiki/File:Platanus_occidentalis_Bloomington.jpg\">Jeff Hart from Bloomington, IN, USA</a>, <a href=\"https://creativecommons.org/licenses/by/2.0\">CC BY 2.0</a>, via Wikimedia Commons",
+                "<img src=\"448px-A8-2-Platanus_occidentalis_(Eastern_Sycamore).JPG\">",
+                "<a href=\"https://commons.wikimedia.org/wiki/File:A8-2-Platanus_occidentalis_(Eastern_Sycamore).JPG\">MOHAMMED HAMZA</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0\">CC BY-SA 3.0</a>, via Wikimedia Commons",
+                "<img src=\"34241887576_8e2a31e601_o.jpg\">",
+                "<a href=\"https://www.flickr.com/photos/135541615@N05/34241887576\">Na. J. Pilla</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.0\">CC BY-SA 2.0</a>, via Flickr",
+                "<img src=\"800px-Platanus_occidentalis-Platane_3462.jpg\">",
+                "<a href=\"https://commons.wikimedia.org/wiki/File:Platanus_occidentalis-Platane_3462.jpg\">Colsu</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>, via Wikimedia Commons"
+            ],
+            "flags": 0,
+            "guid": "A+7&PB+=~v",
+            "note_model_uuid": "5f79d534-cadc-11eb-9ba1-037543748ddc",
+            "tags": [
+                "ti::north_america_east"
             ]
         }
     ]
