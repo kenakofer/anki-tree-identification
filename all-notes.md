@@ -1,5 +1,5 @@
 <h1>All 🌲🌴 **TREES** 🎄🌳 in this deck</h1>
-<em>(28 notes)</em>
+<em>(29 notes)</em>
 <h2>Eastern Redbud</h2><table>
 <tr><td><code>common_name</code></td><td>Eastern Redbud</td></tr>
 <tr><td><code>scientific_name</code></td><td>Cercis canadensis</td></tr>
@@ -418,6 +418,21 @@
 <tr><td><code>flower_photo_attribution</code></td><td><a href="https://www.flickr.com/photos/135541615@N05/34241887576">Na. J. Pilla</a>, <a href="https://creativecommons.org/licenses/by-sa/2.0">CC BY-SA 2.0</a>, via Flickr</td></tr>
 <tr><td><code>fruit_or_seed_photo</code></td><td><img height="300" src="media/800px-Platanus_occidentalis-Platane_3462.jpg"></td></tr>
 <tr><td><code>fruit_or_seed_photo_attribution</code></td><td><a href="https://commons.wikimedia.org/wiki/File:Platanus_occidentalis-Platane_3462.jpg">Colsu</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a>, via Wikimedia Commons</td></tr></table>
+
+<hr>
+
+<h2>Bald Cypress/Swamp Cypress</h2><table>
+<tr><td><code>common_name</code></td><td>Bald Cypress/Swamp Cypress</td></tr>
+<tr><td><code>scientific_name</code></td><td>Taxodium distichum</td></tr>
+<tr><td><code>native_region</code></td><td>Eastern N. America</td></tr>
+<tr><td><code>full_photo</code></td><td><img height="300" src="media/450px-Taxodium_distichum_Ciutadella.jpg"><img height="300" src="media/412px-Taxodium_distichum_01.jpg"></td></tr>
+<tr><td><code>full_photo_attribution</code></td><td><a href="https://commons.wikimedia.org/wiki/File:Taxodium_distichum_Ciutadella.jpg">Akhran</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a>, via Wikimedia Commons,&nbsp;<a href="https://commons.wikimedia.org/wiki/File:Taxodium_distichum_01.jpg">WJV&amp;DB</a>, <a href="https://creativecommons.org/licenses/by-sa/2.5/nl/deed.en">CC BY-SA 2.5 NL</a>, via Wikimedia Commons</td></tr>
+<tr><td><code>leaf_photo</code></td><td><img height="300" src="media/800px-Taxodium_Distichum_(Bald_Cypress)_(28894599385).jpg"></td></tr>
+<tr><td><code>leaf_photo_attribution</code></td><td><a href="https://commons.wikimedia.org/wiki/File:Taxodium_Distichum_(Bald_Cypress)_(28894599385).jpg">Treeworld Wholesale</a>, <a href="https://creativecommons.org/licenses/by/2.0">CC BY 2.0</a>, via Wikimedia Commons</td></tr>
+<tr><td><code>flower_photo</code></td><td><img height="300" src="media/394px-落羽杉_Taxodium_distichum_20200920091419_02.jpg"></td></tr>
+<tr><td><code>flower_photo_attribution</code></td><td><a href="https://commons.wikimedia.org/wiki/File:落羽杉_Taxodium_distichum_20200920091419_02.jpg">Ping an Chang</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a>, via Wikimedia Commons</td></tr>
+<tr><td><code>fruit_or_seed_photo</code></td><td><img height="300" src="media/800px-Taxodium_distichum_Cerro_Italy.jpg"></td></tr>
+<tr><td><code>fruit_or_seed_photo_attribution</code></td><td><a href="https://commons.wikimedia.org/wiki/File:Taxodium_distichum_Cerro_Italy.jpg">Sciadopitys from UK</a>,&nbsp;<a href="https://creativecommons.org/licenses/by-sa/2.0">CC BY-SA 2.0</a>, via Wikimedia Commons</td></tr></table>
 
 <hr>
 

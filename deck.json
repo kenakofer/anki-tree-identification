@@ -62,6 +62,7 @@
         "337px-Gleditsia_triacanthos_at_the_El_Paso_Museum_of_Archaelogy.jpg",
         "34150993885_f3ff894cdd_o.jpg",
         "34241887576_8e2a31e601_o.jpg",
+        "394px-落羽杉_Taxodium_distichum_20200920091419_02.jpg",
         "398px-Quercus_macrocarpa_(23797146829).jpg",
         "400px-Acer-negundo.jpg",
         "400px-Acer_rubrum_October_Glory_5zz.jpg",
@@ -73,6 +74,7 @@
         "400px-Quercus_macrocarpa_(Bur_Oak)_(33645993643).jpg",
         "401px-Platanus_occidentalis_Bloomington.jpg",
         "410px-Thuja_plicata_Vancouver.jpg",
+        "412px-Taxodium_distichum_01.jpg",
         "415px-Robinia_pseudoacacia_3.jpg",
         "421px-Robinia_pseudoacacia_-_Robinie_-_Mörfelden-Walldorf_-_Germany_-_02.jpg",
         "422px-Pinus_ponderosa_15932.JPG",
@@ -103,6 +105,7 @@
         "450px-Sequoiadendron_giganteum_3zz.jpg",
         "450px-Sequoiafarm_Sequoia_sempervirens.jpg",
         "450px-Tall_bigleaf_maple.JPG",
+        "450px-Taxodium_distichum_Ciutadella.jpg",
         "450px-The_Mable_Hill_Park_Black_Walnut_Tree_-_London._(4621671958).jpg",
         "450px-Thuja_plicata_(24959698947).jpg",
         "450px-Westover_Park_(31060342845).jpg",
@@ -178,6 +181,8 @@
         "800px-Sequoia_sempervirens_foliage_cones_Mount_Tamalpais_1.jpg",
         "800px-Silber-Ahorn_(Acer_saccharinum).jpg",
         "800px-Sugar_maple_3220.jpg",
+        "800px-Taxodium_Distichum_(Bald_Cypress)_(28894599385).jpg",
+        "800px-Taxodium_distichum_Cerro_Italy.jpg",
         "800px-Ulmus_americana_(5101983801).jpg",
         "800px-thumbnail.jpg",
         "Cercis_canadensis_16zz.jpg",
@@ -1032,6 +1037,29 @@
             ],
             "flags": 0,
             "guid": "A+7&PB+=~v",
+            "note_model_uuid": "5f79d534-cadc-11eb-9ba1-037543748ddc",
+            "tags": [
+                "ti::north_america_east"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Bald Cypress/Swamp Cypress",
+                "Taxodium distichum",
+                "Eastern N. America",
+                "<img src=\"450px-Taxodium_distichum_Ciutadella.jpg\"><img src=\"412px-Taxodium_distichum_01.jpg\">",
+                "<a href=\"https://commons.wikimedia.org/wiki/File:Taxodium_distichum_Ciutadella.jpg\">Akhran</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>, via Wikimedia Commons,&nbsp;<a href=\"https://commons.wikimedia.org/wiki/File:Taxodium_distichum_01.jpg\">WJV&amp;DB</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.5/nl/deed.en\">CC BY-SA 2.5 NL</a>, via Wikimedia Commons",
+                "<img src=\"800px-Taxodium_Distichum_(Bald_Cypress)_(28894599385).jpg\">",
+                "<a href=\"https://commons.wikimedia.org/wiki/File:Taxodium_Distichum_(Bald_Cypress)_(28894599385).jpg\">Treeworld Wholesale</a>, <a href=\"https://creativecommons.org/licenses/by/2.0\">CC BY 2.0</a>, via Wikimedia Commons",
+                "<img src=\"394px-落羽杉_Taxodium_distichum_20200920091419_02.jpg\">",
+                "<a href=\"https://commons.wikimedia.org/wiki/File:落羽杉_Taxodium_distichum_20200920091419_02.jpg\">Ping an Chang</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>, via Wikimedia Commons",
+                "<img src=\"800px-Taxodium_distichum_Cerro_Italy.jpg\">",
+                "<a href=\"https://commons.wikimedia.org/wiki/File:Taxodium_distichum_Cerro_Italy.jpg\">Sciadopitys from UK</a>,&nbsp;<a href=\"https://creativecommons.org/licenses/by-sa/2.0\">CC BY-SA 2.0</a>, via Wikimedia Commons"
+            ],
+            "flags": 0,
+            "guid": "vJ=:|#A-l1",
             "note_model_uuid": "5f79d534-cadc-11eb-9ba1-037543748ddc",
             "tags": [
                 "ti::north_america_east"
