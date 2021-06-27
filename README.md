@@ -14,7 +14,9 @@ Most notes have all of the above types, but a few are missing appropriate photos
 
 If you don't care about some of these categories, no worries! Tweaking or disabling any of the card types in Anki is trivial. This deck aims to encompass most 🌲🌴 **TREE** 🎄🌳 enthusiasts' learning desires.
 
-You can see the full list [here](all-notes.md).
+You can see the full list of notes [here](all-notes.md).
+
+
 
 ## Example: Black Walnut
 
@@ -34,6 +36,10 @@ For example, here's all the information on the _Juglans nigra_ note:
 <tr><td><code>fruit_or_seed_photo_attribution</code></td><td>Public domain, via&nbsp;<a href="https://commons.wikimedia.org/wiki/File:Black_Walnut_nut_and_leave_detail.JPG">Wikimedia Commons</a></td></tr></table>
 
 ## How to use
+
+The simplest way is to use the [AnkiWeb shared deck page](https://ankiweb.net/shared/info/331090068), though this git repo is more regularly updated.
+
+To install from this repo:
 
  1. Install the free and open-source flashcard software [Anki](https://apps.ankiweb.net/).
  1. `Tools` &#8594; `Addons` &#8594; `Get Add-ons`
