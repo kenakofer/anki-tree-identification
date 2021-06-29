@@ -11,13 +11,13 @@ find "$MEDIA_DIR" -type f -iname "*.jpg" -print0 | sort -z | while IFS= read -r 
     ORIGINAL_SIZE_FILE="$ORIGINAL_SIZE_DIR/$BASE"
 
     ## Don't reoptimize if we already have a backup from an earlier run of this script
-    if [ -e $ORIGINAL_SIZE_FILE ]; then
+    if [ -e "$ORIGINAL_SIZE_FILE" ]; then
         echo "Skipping $file..."
 
     else
         echo "Backing up and compressing $file"
-        cp $file $ORIGINAL_SIZE_FILE || exit 1
-        rm $file || exit 1
-        convert $IMAGE_MAGICK_OPTIONS $ORIGINAL_SIZE_FILE $file || exit 1
+        cp "$file" "$ORIGINAL_SIZE_FILE" || exit 1
+        rm "$file" || exit 1
+        convert $IMAGE_MAGICK_OPTIONS "$ORIGINAL_SIZE_FILE" "$file" || exit 1
     fi
 done
