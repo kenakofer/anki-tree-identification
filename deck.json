@@ -12,7 +12,7 @@
             "interdayLearningMix": 0,
             "lapse": {
                 "delays": [
-                    10.0
+                    10
                 ],
                 "leechAction": 1,
                 "leechFails": 8,
@@ -22,10 +22,10 @@
             "maxTaken": 60,
             "name": "Default",
             "new": {
-                "bury": false,
+                "bury": true,
                 "delays": [
-                    1.0,
-                    10.0
+                    1,
+                    10
                 ],
                 "initialFactor": 2500,
                 "ints": [
@@ -34,7 +34,7 @@
                     0
                 ],
                 "order": 1,
-                "perDay": 20
+                "perDay": 10
             },
             "newMix": 0,
             "newPerDayMinimum": 0,
@@ -87,8 +87,10 @@
         "450px-2021-04-22_18_54_32_Male_flowers_(catkins)_on_a_White_Oak_within_a_wooded_area_in_the_Franklin_Farm_section_of_Oak_Hill,_Fairf.jpg",
         "450px-Acer_saccharinum_002.jpg",
         "450px-Asimina_triloba_Asymina_trójklapowa_2014-10-12_01.jpg",
+        "450px-Buckeye_Flower.jpg",
         "450px-Catalpa_speciosa,_2015-06-02,_Homewood_Cemetery,_04.jpg",
         "450px-Catalpa_speciosa.JPG",
+        "450px-Celtis_occidentalis_20090606.jpg",
         "450px-Douglas_fir_cone.jpg",
         "450px-Eastern_Cottonwood_(Populus_deltoides)_-_Flickr_-_Jay_Sturner_(2).jpg",
         "450px-Flowers_of_Robinia_pseudoacacia.jpg",
@@ -96,6 +98,7 @@
         "450px-Fraxinus_americana_002.jpg",
         "450px-Loblolly_Pines_South_Mississippi.JPG",
         "450px-Moon_Tree_in_Keystone_Heights_Florida.jpg",
+        "450px-Ohio_Buckeye_(34135270821).jpg",
         "450px-Old_American_elm_tree_near_Horticultural_Hall_in_Halifax_Public_Gardens_-_August_2019.jpg",
         "450px-Pinus_taeda_1zz.jpg",
         "450px-Populus_deltoides_(Eastern_Cottonwood)_(42164128654).jpg",
@@ -147,11 +150,15 @@
         "800px-Acer_rubrum_22zz.jpg",
         "800px-Acer_rubrum_seed_keys.jpg",
         "800px-Acer_saccharum_1-jgreenlee_(5098070608).jpg",
+        "800px-Aesculus_glabra_-_Stanley_M._Rowe_Arboretum_-_DSC03417.JPG",
         "800px-Asimina_triloba_Asymina_trójklapowa_2020-07-18_01.jpg",
         "800px-Baden-Baden-Gleditsia_triacanthos-70-Lederhuelsenbaum-Frucht-2012-gje.jpg",
         "800px-Black_Walnut_nut_and_leave_detail.JPG",
         "800px-Catalpa_speciosa_10zz.jpg",
         "800px-Catalpa_speciosa_7zz.jpg",
+        "800px-Celtis-occidentalis-flower.jpg",
+        "800px-Celtis_occidentalis_berry,_Odessa,_Ukraine.jpg",
+        "800px-Celtis_occidentalis_in_Jardin_du_Grand_Rond_02.jpg",
         "800px-CloseUpManitobaMapleSeed.jpg",
         "800px-Cornus_florida_(Flowering_Dogwood)_(34796659160).jpg",
         "800px-Fagus_grandifolia_(American_Beech)_(37034236702).jpg",
@@ -163,6 +170,7 @@
         "800px-Maclura_pomifera,_loof,_Manie_van_der_Schijff_BT,_a.jpg",
         "800px-Maclura_pomifera.JPG",
         "800px-Morus_sp._02.jpg",
+        "800px-Ohio_Buckeye_(36358903990).jpg",
         "800px-Pawpaw_(30381530933).jpg",
         "800px-Peuplier_deltoïde_feuillage.jpg",
         "800px-Pinus_ponderosa_4755.JPG",
@@ -185,8 +193,10 @@
         "800px-Taxodium_distichum_Cerro_Italy.jpg",
         "800px-Ulmus_americana_(5101983801).jpg",
         "800px-thumbnail.jpg",
+        "Aesculus_glabra_-_Botanischer_Garten,_Frankfurt_am_Main_-_DSC03282 (1).JPG",
         "Cercis_canadensis_16zz.jpg",
         "Gleditsia_sunburst_A.jpg",
+        "Naturdenkmal.Amerikanischer.Zuergelbaum.Berlin-Tiergarten (2).jpg",
         "Pseudotsuga_menziesii_12zz.jpg",
         "paste-3abc7206d58c860ac376b70104f00108dcf1c479.jpg",
         "paste-58187835caf80d160de9f853d6b13ae420a00962.jpg"
@@ -341,9 +351,7 @@
                 ]
             ],
             "sortf": 1,
-            "tags": [
-                "ti::north_america_east"
-            ],
+            "tags": [],
             "tmpls": [
                 {
                     "afmt": "{{FrontSide}}<br />\n<span class='answer'>{{common_name}}</span><br />\n<span class='scientific-name'>{{scientific_name}}</span>\n",
@@ -1060,6 +1068,52 @@
             ],
             "flags": 0,
             "guid": "vJ=:|#A-l1",
+            "note_model_uuid": "5f79d534-cadc-11eb-9ba1-037543748ddc",
+            "tags": [
+                "ti::north_america_east"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Common hackberry",
+                "Celtis occidentalis",
+                "Eastern N. America",
+                "<img src=\"450px-Celtis_occidentalis_20090606.jpg\"><img src=\"Naturdenkmal.Amerikanischer.Zuergelbaum.Berlin-Tiergarten (2).jpg\">",
+                "<a href=\"https://commons.wikimedia.org/wiki/File:Celtis_occidentalis_20090606.jpg\">Chhe</a>, Public domain, via Wikimedia Commons,&nbsp;<a href=\"https://commons.wikimedia.org/wiki/File:Naturdenkmal.Amerikanischer.Zuergelbaum.Berlin-Tiergarten.jpg\">Membeth</a>, CC0, via Wikimedia Commons",
+                "<img src=\"800px-Celtis_occidentalis_in_Jardin_du_Grand_Rond_02.jpg\">",
+                "<a href=\"https://commons.wikimedia.org/wiki/File:Celtis_occidentalis_in_Jardin_du_Grand_Rond_02.jpg\">Krzysztof Golik</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>, via Wikimedia Commons",
+                "<img src=\"800px-Celtis-occidentalis-flower.jpg\">",
+                "<a href=\"https://commons.wikimedia.org/wiki/File:Celtis-occidentalis-flower.jpg\">Sten Porse</a>,&nbsp;<a href=\"https://creativecommons.org/licenses/by-sa/3.0\">CC BY-SA 3.0</a>, via Wikimedia Commons",
+                "<img src=\"800px-Celtis_occidentalis_berry,_Odessa,_Ukraine.jpg\">",
+                "The image created by © <a href=\"/wiki/User:Ykvach\" title=\"User:Ykvach\">Yuriy Kvach</a>"
+            ],
+            "flags": 0,
+            "guid": "Q0L2lp~sU&",
+            "note_model_uuid": "5f79d534-cadc-11eb-9ba1-037543748ddc",
+            "tags": [
+                "ti::north_america_east"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Ohio buckeye",
+                "Aesculus glabra",
+                "Eastern N. America",
+                "<img src=\"Aesculus_glabra_-_Botanischer_Garten,_Frankfurt_am_Main_-_DSC03282 (1).JPG\"><img src=\"450px-Ohio_Buckeye_(34135270821).jpg\">",
+                "<a href=\"https://commons.wikimedia.org/wiki/File:Aesculus_glabra_-_Botanischer_Garten,_Frankfurt_am_Main_-_DSC03282.JPG\">Daderot</a>, CC0, via Wikimedia Commons,&nbsp;<a href=\"https://commons.wikimedia.org/wiki/File:Ohio_Buckeye_(34135270821).jpg\">Dan Keck from Ohio</a>, CC0, via Wikimedia Commons",
+                "<img src=\"800px-Aesculus_glabra_-_Stanley_M._Rowe_Arboretum_-_DSC03417.JPG\">",
+                "<a href=\"https://commons.wikimedia.org/wiki/File:Aesculus_glabra_-_Stanley_M._Rowe_Arboretum_-_DSC03417.JPG\">Daderot</a>, CC0, via Wikimedia Commons",
+                "<img src=\"450px-Buckeye_Flower.jpg\">",
+                "<a href=\"https://commons.wikimedia.org/wiki/File:Buckeye_Flower.jpg\">Mbrickn</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>, via Wikimedia Commons",
+                "<img src=\"800px-Ohio_Buckeye_(36358903990).jpg\">",
+                "<a href=\"https://commons.wikimedia.org/wiki/File:Ohio_Buckeye_(36358903990).jpg\">Dan Keck from Ohio</a>, CC0, via Wikimedia Commons"
+            ],
+            "flags": 0,
+            "guid": "lD`Z*d7q5]",
             "note_model_uuid": "5f79d534-cadc-11eb-9ba1-037543748ddc",
             "tags": [
                 "ti::north_america_east"
