@@ -33,14 +33,14 @@
                     4,
                     0
                 ],
-                "order": 1,
+                "order": 0,
                 "perDay": 10
             },
             "newMix": 0,
             "newPerDayMinimum": 0,
             "replayq": true,
             "rev": {
-                "bury": false,
+                "bury": true,
                 "ease4": 1.3,
                 "hardFactor": 1.2,
                 "ivlFct": 1.0,
@@ -62,6 +62,7 @@
         "337px-Gleditsia_triacanthos_at_the_El_Paso_Museum_of_Archaelogy.jpg",
         "34150993885_f3ff894cdd_o.jpg",
         "34241887576_8e2a31e601_o.jpg",
+        "364px-Carya_ovata.jpg",
         "394px-落羽杉_Taxodium_distichum_20200920091419_02.jpg",
         "398px-Quercus_macrocarpa_(23797146829).jpg",
         "400px-Acer-negundo.jpg",
@@ -114,6 +115,7 @@
         "450px-Westover_Park_(31060342845).jpg",
         "450px-thumbnail.jpg",
         "479px-Asimina_triloba_(Paw_Paw)_(24374695518).jpg",
+        "479px-Carya_ovata_(Shagbark_Hickory)_(38214254112).jpg",
         "479px-Sequoia_sempervirens_by_Line1.jpg",
         "485px-Catalpa_speciosa_20060624.jpg",
         "490px-2014-10-30_11_09_40_Red_Maple_during_autumn_on_Lower_Ferry_Road_in_Ewing,_New_Jersey.JPG",
@@ -126,6 +128,7 @@
         "666px-Paw_Paw_blossom.jpg",
         "682px-Acer_saccharum_(sugar_maple_tree_in_fall_colors)_(Country_Club_Drive,_Newark,_Ohio,_USA)_(25_October_2015)_7_(21860848273).jpg",
         "691px-Eschen-Ahorn_(Acer_negundo)_-9146.jpg",
+        "701px-Carya_ovata_female_flowers.jpg",
         "736px-Acer_rubrum_kz3.JPG",
         "750px-Thuja_plicata_RF.jpg",
         "772px-Juniper_berries_q.jpg",
@@ -194,6 +197,8 @@
         "800px-Ulmus_americana_(5101983801).jpg",
         "800px-thumbnail.jpg",
         "Aesculus_glabra_-_Botanischer_Garten,_Frankfurt_am_Main_-_DSC03282 (1).JPG",
+        "Carya_ovata_fruit.jpg",
+        "Carya_ovata_leaf.jpg",
         "Cercis_canadensis_16zz.jpg",
         "Gleditsia_sunburst_A.jpg",
         "Naturdenkmal.Amerikanischer.Zuergelbaum.Berlin-Tiergarten (2).jpg",
@@ -351,7 +356,9 @@
                 ]
             ],
             "sortf": 1,
-            "tags": [],
+            "tags": [
+                "ti::north_america_east"
+            ],
             "tmpls": [
                 {
                     "afmt": "{{FrontSide}}<br />\n<span class='answer'>{{common_name}}</span><br />\n<span class='scientific-name'>{{scientific_name}}</span>\n",
@@ -1114,6 +1121,29 @@
             ],
             "flags": 0,
             "guid": "lD`Z*d7q5]",
+            "note_model_uuid": "5f79d534-cadc-11eb-9ba1-037543748ddc",
+            "tags": [
+                "ti::north_america_east"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Shagbark hickory",
+                "carya ovata",
+                "Eastern N. America",
+                "<img src=\"364px-Carya_ovata.jpg\"><img src=\"479px-Carya_ovata_(Shagbark_Hickory)_(38214254112).jpg\">",
+                "<a href=\"https://commons.wikimedia.org/wiki/File:Carya_ovata.jpg\">Matthew C. Perry</a>, Public domain, via Wikimedia Commons,&nbsp;<a href=\"https://commons.wikimedia.org/wiki/File:Carya_ovata_(Shagbark_Hickory)_(38214254112).jpg\">Plant Image Library from Boston, USA</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.0\">CC BY-SA 2.0</a>, via Wikimedia Commons",
+                "<img src=\"Carya_ovata_leaf.jpg\">",
+                "<a href=\"https://commons.wikimedia.org/wiki/File:Carya_ovata_leaf.jpg\">Tgalos90</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>, via Wikimedia Commons",
+                "<img src=\"701px-Carya_ovata_female_flowers.jpg\">",
+                "<a href=\"https://commons.wikimedia.org/wiki/File:Carya_ovata_female_flowers.jpg\">William (Ned) Friedman</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>, via Wikimedia Commons",
+                "<img src=\"Carya_ovata_fruit.jpg\">",
+                "<a href=\"https://commons.wikimedia.org/wiki/File:Carya_ovata_fruit.jpg\">Tgalos90</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\">CC BY-SA 4.0</a>, via Wikimedia Commons"
+            ],
+            "flags": 0,
+            "guid": "q5oObFC(w1",
             "note_model_uuid": "5f79d534-cadc-11eb-9ba1-037543748ddc",
             "tags": [
                 "ti::north_america_east"

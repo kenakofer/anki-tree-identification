@@ -1,5 +1,5 @@
 <h1>All 🌲🌴 **TREES** 🎄🌳 in this deck</h1>
-<em>(31 notes)</em>
+<em>(32 notes)</em>
 <h2>Eastern Redbud</h2><table>
 <tr><td><code>common_name</code></td><td>Eastern Redbud</td></tr>
 <tr><td><code>scientific_name</code></td><td>Cercis canadensis</td></tr>
@@ -463,6 +463,21 @@
 <tr><td><code>flower_photo_attribution</code></td><td><a href="https://commons.wikimedia.org/wiki/File:Buckeye_Flower.jpg">Mbrickn</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a>, via Wikimedia Commons</td></tr>
 <tr><td><code>fruit_or_seed_photo</code></td><td><img height="300" src="media/800px-Ohio_Buckeye_(36358903990).jpg"></td></tr>
 <tr><td><code>fruit_or_seed_photo_attribution</code></td><td><a href="https://commons.wikimedia.org/wiki/File:Ohio_Buckeye_(36358903990).jpg">Dan Keck from Ohio</a>, CC0, via Wikimedia Commons</td></tr></table>
+
+<hr>
+
+<h2>Shagbark hickory</h2><table>
+<tr><td><code>common_name</code></td><td>Shagbark hickory</td></tr>
+<tr><td><code>scientific_name</code></td><td>carya ovata</td></tr>
+<tr><td><code>native_region</code></td><td>Eastern N. America</td></tr>
+<tr><td><code>full_photo</code></td><td><img height="300" src="media/364px-Carya_ovata.jpg"><img height="300" src="media/479px-Carya_ovata_(Shagbark_Hickory)_(38214254112).jpg"></td></tr>
+<tr><td><code>full_photo_attribution</code></td><td><a href="https://commons.wikimedia.org/wiki/File:Carya_ovata.jpg">Matthew C. Perry</a>, Public domain, via Wikimedia Commons,&nbsp;<a href="https://commons.wikimedia.org/wiki/File:Carya_ovata_(Shagbark_Hickory)_(38214254112).jpg">Plant Image Library from Boston, USA</a>, <a href="https://creativecommons.org/licenses/by-sa/2.0">CC BY-SA 2.0</a>, via Wikimedia Commons</td></tr>
+<tr><td><code>leaf_photo</code></td><td><img height="300" src="media/Carya_ovata_leaf.jpg"></td></tr>
+<tr><td><code>leaf_photo_attribution</code></td><td><a href="https://commons.wikimedia.org/wiki/File:Carya_ovata_leaf.jpg">Tgalos90</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a>, via Wikimedia Commons</td></tr>
+<tr><td><code>flower_photo</code></td><td><img height="300" src="media/701px-Carya_ovata_female_flowers.jpg"></td></tr>
+<tr><td><code>flower_photo_attribution</code></td><td><a href="https://commons.wikimedia.org/wiki/File:Carya_ovata_female_flowers.jpg">William (Ned) Friedman</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a>, via Wikimedia Commons</td></tr>
+<tr><td><code>fruit_or_seed_photo</code></td><td><img height="300" src="media/Carya_ovata_fruit.jpg"></td></tr>
+<tr><td><code>fruit_or_seed_photo_attribution</code></td><td><a href="https://commons.wikimedia.org/wiki/File:Carya_ovata_fruit.jpg">Tgalos90</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a>, via Wikimedia Commons</td></tr></table>
 
 <hr>
 
